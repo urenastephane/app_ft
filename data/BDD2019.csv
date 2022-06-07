@@ -1,0 +1,814 @@
+﻿Ecole_BID,PrenomVerifieParLeDiplome,NomVerifieParLeDiplome,SexeVerifieParLeDiplome,NationaliteFrancaise,Nationalité,2020.15. SituationActuelle,2020.27. EmploiLieuPaysTerritoire,2020.50. EmploiEntrepriseSecteurActivite,2020.140. Option_EcoleSatisfactionFormation,2020.141. Option_EcoleAccompagnementProjetPro,2021.15. SituationActuelle,2021.30. EmploiLieuPaysTerritoire,2021.55. EmploiEntrepriseSecteurActivite,2021.144. Option_EcoleSatisfactionFormation,2021.145. Option_EcoleAccompagnementProjetPro,2020.18. CreationRepriseEntreprise,2021.18. CreationRepriseEntreprise,2020.55. EmploiEntreprisePoste,2021.61. EmploiEntreprisePoste,AnneeDiplomeVerifieParLeDiplome,2020.200. EmploiSalaireBrutAnnuelAPEuros,2021.204. EmploiSalaireBrutAnnuelAPEuros
+B00604625,Mathilde,GOUTEUX,Femme,Yes,France,In professional activity,Colombia,"Consultancy firms, Design offices, Engineering",Unsatisfied,Not really useful,Studying (except thesis),,,Unsatisfied,Not really useful,No,No,Consultant en développement durable,,2019,7150,
+B00604934,Antoine,JACOULET,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,,,,,,"Yes, company currently active",,Directeur Général délégué aux affaires stratégiques,,2019,16000,
+B00690884,Juhi,AGARWAL,Femme,No,Inde,,,,,,In professional activity,India,Business and trade,Satisfied,Not really useful,,"Yes, company currently active",,Chief Investment Officer,2019,,39151.91596
+B00684970,Achille,BIAIS,Homme,Yes,France,In professional activity,Canada,"Arts, entertainment industry and recreational activities",Satisfied,Rather useful,,,,,,No,,Producer Junior,,2019,16012.80424,
+B00543923,Sophia,AGHZADI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00684592,Eline,LAMBERT,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Agriculture, silviculture and fishing",Neither satisfied nor dissatisfied,Not really useful,,,,,,No,,Chargée Evenements Paris,,2019,18880,
+B00547490,Blaise,ANTONIAZZI,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,No,No,,Consultant Life Sciences,2019,,55000
+B00603026,Lucie,BEREZOWA,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Useless,,,,,,No,,Gallery Assistant,,2019,21600,
+B00574016,Kévin,ATTAL,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Rather useful,,No,,ELEVE DIRECTEUR D'HOPITAL,2019,,22200
+B00694257,Riccardo,BARAVELLI,Homme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00684979,Kévin,SENET,Homme,Yes,France,In professional activity,Switzerland,"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Not really useful,,,,,,No,,Merchandising Analyst,,2019,23000,
+B00550791,Clément,BARCH,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,,No,,Inspecteur bancaire,2019,,42000
+B00675480,Benoît,BARONE,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Human health and social work,Very satisfied,Very useful,No,"Yes, company currently being set up (underway)",,CEO & Founder,2019,,
+B00689901,Fadel,BELHAJ SOULLAMI,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00549846,Zahia,BELHAJ SOULLAMI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00606656,Caroline,SCHOLTEN,Femme,Yes,France,In professional activity,United Kingdom,"Publishing, audiovisual and broadcasting",Satisfied,Very useful,Looking for a job,,,Satisfied,Rather useful,No,No,Marketing Manager,,2019,26851.17755,
+B00667334,Natacha,BENABOU,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00693841,Hadjer,BENAICHE,Femme,No,Algérie,,,,,,,,,,,,,,,2019,,
+B00699008,Imad,BENCHIBA,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00605893,Louis,PONSAR,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,No,No,chargé de production,Chargé de production,2019,28800,38000
+B00684656,Laure,BERTHOUMIEU-ROUBY,Femme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,"Yes, company currently being set up (underway)",Chef de publicité,Auto-entreprise,2019,29000,25000
+B00693318,Angèle,BERNARD,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00695709,Dario,BERRUTI,Homme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00684614,Charlotte,BESNARD,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Water production and distribution, sanitation, waste management and remediation",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Human health and social work,Satisfied,Rather useful,No,No,Business developer France entière,Chargée du déploiement France,2019,29500,40000
+B00604641,Léa,GRANMONT,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,,,,,,"Yes, company currently active",,Business developer,,2019,30000,
+B00529255,Jules,GRANGE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Arts, entertainment industry and recreational activities",Neither satisfied nor dissatisfied,Very useful,In professional activity,France (including overseas collectivities),"Arts, entertainment industry and recreational activities",Satisfied,Rather useful,No,No,Adjoint au chef du service des financementes,Adjoint au chef du service des financementes,2019,30600,31450
+B00692057,Juliette,BESSON,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Human health and social work,Satisfied,Rather useful,,No,,DRH Adjointe,2019,,60000
+B00605254,Julia,LAGELEE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00633347,Olivier,BISHOP,Homme,Yes,France,Studying (except thesis),,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00694816,Yonathan,BLAJMAN,Homme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Not really useful,,,,,,"Yes, company currently active",,,,2019,,
+B00693716,Maxime,BOMPARD,Homme,Yes,France,Looking for a job,,,Very unsatisfied,Rather useful,,,,,,No,,,,2019,,
+B00696611,Edgar,BONVALLOT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00676605,Benjamin,BOSCHER,Homme,Yes,France,Studying (except thesis),,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00699656,Malika,BOUAZZAOUI,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Not really useful,,,,,,"Yes, company currently being set up (underway)",,,,2019,,
+B00684515,Caroline,MENDEL,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Neither satisfied nor dissatisfied,Useless,No,No,Chef de Projet New Business,Chef de Projet New Business,2019,32400,38600
+B00684624,Adélie,STENKO,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,,,,,,No,,Chargée de contenus numériques,,2019,33200,
+B00696281,Enzo,BUONOCORE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00460139,Damien,CACHEUX,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684506,Manon,LECLERCQ,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Useless,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Useless,"Yes, company currently being set up (underway)","Yes, company currently active",Acheteur doublures et fournitures,Acheteur chef de produit,2019,34000,37650
+B00693494,Paul,CARIOU,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00674790,Arthur,CAROFF,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Business Operations Analyst,,2019,,
+B00693755,Pierre,CASSIGNOL,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00700228,Leonardo,CAVALCANTE ARAÚJO,Homme,No,Brésil,Looking for a job,,,Satisfied,Not really useful,Looking for a job,,,Satisfied,Not really useful,No,No,,,2019,,
+B00526954,Keren,ABBOU,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very unsatisfied,Not really useful,,,,,,No,,chargée de mission,,2019,34000,
+B00604429,Margot,FAVENNEC,Femme,Yes,France,,,,,,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,,Rather useful,,No,,,2019,,
+B00604774,Candice,HAMOU,Femme,Yes,France,In professional activity,United Kingdom,"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,,,,,,No,,Research Analyst,,2019,34235.25138,
+B00691652,Yiqing,CHEN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00686707,Yue,CHEN,Femme,No,Chine,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Unsatisfied,Rather useful,,,,,,No,,HR Project Manager,,2019,,
+B00692033,Shujia,CHEN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00688832,Yilin,CHEN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00604671,Charlotte,GRUCHET,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Useless,No,No,,Merchandiser,2019,35000,36200
+B00602673,Laëtitia,AUNET,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Neither satisfied nor dissatisfied,,,,,,,No,,,,2019,35000,
+B00603463,Arnaud,BURUCOA,Homme,Yes,France,In professional activity,Austria,"Publishing, audiovisual and broadcasting",Satisfied,Useless,,,,,,No,,Content Curation Specialist,,2019,35000,
+B00684960,Clarisse,COURLET DE VREGILLE,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,,,,,,No,,Responsable développement commercial,,2019,35000,
+B00690062,Maxime,CHUL,Homme,Yes,France,Looking for a job,,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00606946,Lina,TAHANI,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Not really useful,No,No,International Product Manager Junior,HQ Associate Producer,2019,36000,41000
+B00697738,Manon,COHENDY,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,,No,,Product Owner,2019,,41000
+B00684510,Caroline,BIER,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Product Innovation Manager,Analytic Consultant,2019,36000,40000
+B00603285,Quentin,CHOULET,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Not really useful,No,No,Junior Product Manager,PRODUCT OWNER,2019,36750,46600
+B00697762,Raphael,CRUX,Homme,No,Allemagne,In professional activity,Germany,IT operations and information services (ICT Services),Satisfied,Rather useful,In professional activity,Germany,IT operations and information services (ICT Services),Satisfied,Rather useful,No,No,,Consultant,2019,,
+B00529581,Louise,LANFRANCONI,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,,,,,,,No,,Chef de projet - Brands Services,,2019,37000,
+B00684728,Rachel,TOURNEUR,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Useless,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Rather useful,No,No,Chef de projet innovation,Graduate programme dirigeant,2019,37200,45000
+B00684546,Adrienne,BESSON,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,,,,,,,No,,,,2019,37500,
+B00603034,Alexandre,BERNARD--BOREL,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Very useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Marketing Manager,Marketing Manager,2019,38000,47000
+B00693660,Hugues,DE MEHERENC DE SAINT PIERRE,Homme,Yes,France,Looking for a job,,,Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Useless,"Yes, company currently active",No,,,2019,,42000
+B00684686,Camille,DOUIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Very satisfied,Not really useful,No,No,Controleur de gestion,Contrôleur de gestion senior,2019,38000,45000
+B00684972,Noémie,FARNIER,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Useless,,,,,,No,,Chef de Produit Développement Junior,,2019,38000,
+B00685005,Nicolas,FREEMAN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Arts, entertainment industry and recreational activities",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,No,No,Junior Project Coordinator,Project Coordinator,2019,38000,40700
+B00684930,Eve-Marine,MEDIONI,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,,,,,,No,,Consultante Média,,2019,39000,
+B00697945,Martin,DÉMIANS BONAUD D'ARCHIMBAUD,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684615,Lucie,BECQUART,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Opérations strategy analyst,Opérations Strategy Analyst,2019,39000,43000
+B00684565,Clément,FAUGERAS,Homme,Yes,France,In professional activity,Morocco,Other sector,Very satisfied,Rather useful,In professional activity,Morocco,Other sector,Very satisfied,Rather useful,No,No,Chargé de mission Kluster CFCIM (incubateur startups),Chargé de missions,2019,3314.819632,4704.963135
+B00530633,Kevin,PEREIRA,Homme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,No,No,Associate Brand Manager,Associate Brand Manager,2019,40000,40500
+B00697780,Joyce,DIALLO,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Rather useful,,No,,Compliance officer,2019,,54000
+B00664536,Wenqing,DING,Homme,No,Chine,In professional activity,China,"Teaching, research",Very satisfied,,In professional activity,China,"Teaching, research",Very satisfied,,No,No,,,2019,,
+B00683544,Meng,DUAN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00529871,Marie,LLOBET,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Not really useful,,,,,,No,,Chef de projet marketing,,2019,40000,
+B00695916,Valentin,DUCHAMP DE CHASTAIGNÉ,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00691658,Anas,ELACHQAR,Homme,No,Maroc,Looking for a job,,,Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,,Consultant en système d'information,2019,,45008
+B00528901,Mathilde,GILLET DE CHALONGE,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Neither satisfied nor dissatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Teaching, research",Neither satisfied nor dissatisfied,Not really useful,No,No,Customer success manager,Enseignante en lettres classiques,2019,40000,31000
+B00683453,Ahmed,ESSAKALI,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00685328,Yuqian,FAN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00696031,Taha,FARHANE,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00603237,Caroline,CHEN,Femme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Very satisfied,Rather useful,,,,,,No,,Ecommerce subscription Project Manager,,2019,40000,
+B00528473,Marion,DENÉPOUX,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696205,Carlos,FERNANDEZ VILLAR,Homme,No,Espagne,,,,,,,,,,,,,,,2019,,
+B00684685,Elise,HAINAUT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Acheteuse nouveaux marchés,Consultante,2019,40500,40000
+B00697699,Francesco,FERRARIS,Homme,No,Italie,Looking for a job,,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,,Junior Consutant,2019,,59200
+B00681490,Camilla,FISCO,Femme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00604024,Tom,DIDIER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Unsatisfied,Rather useful,Looking for a job,,,Unsatisfied,Not really useful,No,No,Chargé de mission,,2019,40500,
+B00747794,Alexandre-Valentin,FLIESSBACH,Homme,No,Allemagne,,,,,,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",,,,No,,,2019,,
+B00695963,Hortense,FOUILLAND,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00531597,Hervé,SECK,Homme,Yes,France,In professional activity,Canada,Other sector,Satisfied,Not really useful,,,,,,No,,Channel Strategist,,2019,40518.22936,
+B00606200,Pauline,PEDRON,Femme,Yes,France,In professional activity,United Kingdom,Agri-food industry,,Very useful,In professional activity,United Kingdom,Agri-food industry,Satisfied,Not really useful,No,No,Business Analyst,Business Analyst,2019,40780.22591,40633.98151
+B00691834,Jeevan,GAIKWAD,Homme,No,Inde,Looking for a job,,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00604368,Anaïs,ENRICO,Femme,Yes,France,In professional activity,Morocco,"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,,,,,,No,,Junior Consultant,,2019,41205.4179,
+B00696732,Michel,GALA,Homme,No,Pologne,,,,,,,,,,,,,,,2019,,
+B00711947,Dhivya,GANESH,Femme,No,Inde,In professional activity,Singapore,Other sector,Satisfied,Rather useful,,,,,,No,,Junior Digital project lead,,2019,,
+B00693477,Leelavathy,GANESH,Femme,No,Singapour,In professional activity,Singapore,Pharmaceutical industry,Satisfied,Not really useful,,,,,,No,,Innovation Project Manager,,2019,,
+B00682349,Louis-Marie,GAUDEAU,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Very useful,,,,,,No,,Analyste développement,,2019,,
+B00605824,Mathilde,MOREAU,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Not really useful,No,No,RESPONSABLE DES OPERATIONS,RESPONSABLE ADJOINT DES OPERATIONS,2019,41600,41400
+B00606807,Nicolas,WIECEK,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Satisfied,Rather useful,,,,,,No,,Chargé de mission Action Coeur de Ville,,2019,42000,
+B00693661,Julien,GERSON,Homme,Yes,France,Studying (except thesis),,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00605299,Alexandre,LANGELIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Property business,Satisfied,Not really useful,No,No,Associate,Product Manager,2019,42000,43000
+B00676639,Srishti,GOEL,Femme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00728185,Morgane,GOIBERT,Femme,Yes,France,Writing a thesis,,,Satisfied,Very useful,,,,,,No,,,,2019,,
+B00703829,Constance,GOUTAY,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00691253,Benoit,GUILLOUET,Homme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Very useful,No,No,Sales Engineer,Sales Engineer,2019,,62000
+B00690448,Anuraj,GUPTA,Homme,No,Inde,Looking for a job,,,Neither satisfied nor dissatisfied,Useless,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,No,No,,,2019,,
+B00603706,François,COURSET,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Research Analyst,,2019,42000,
+B00699704,Marianne,HADDAD,Femme,No,Liban,Looking for a job,,,Very satisfied,Rather useful,Looking for a job,,,Very satisfied,Rather useful,No,No,,,2019,,
+B00605184,Fatima,KLILIB,Femme,No,Tunisie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Business Developer,,2019,42200,
+B00684603,Marine,THIOT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,,,,,,No,,Associate,,2019,42460,
+B00688902,Audoin,HELLOUIN DE MÉNIBUS,Homme,Yes,France,Studying (except thesis),,,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Satisfied,Not really useful,No,No,,Commissaire de Police,2019,,50000
+B00697171,Marie-Astrid,HEMAR,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684884,Augustin,Tournyol du Clos,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,,,,,,No,,Consultant en cybersécurité,,2019,42500,
+B00606439,Elisa,RIMBANO,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,Project Analyst,Senior project strategist,2019,43000,49000
+B00688508,Wei Fang,HUNG,Femme,No,TAÏWAN,,,,,,,,,,,,,,,2019,,
+B00697803,Adam,IBRAHIM,Homme,Yes,France,Looking for a job,,,Very satisfied,Not really useful,Looking for a job,,,Satisfied,Useless,No,No,,,2019,,
+B00697179,Clément,JACQUIER-LAFORGE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605091,Théo,LEFEVRE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604291,Rémi,EDMOND,Homme,Yes,France,In professional activity,France (including overseas collectivities),Tourism,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Tourism,Satisfied,Rather useful,No,No,Chef de Projet Nouvelles Expériences,Chef de produit,2019,43000,43000
+B00676459,Samuel Ulrich,KAMGA TANGO,Homme,No,Cameroun,,,,,,,,,,,,,,,2019,,
+B00684834,Camille,REBINGUET,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,No,No,Consultante,Consultant,2019,43500,42000
+B00688572,Mehak,KATHPALIA,Femme,No,Inde,,,,,,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,,No,,Digital Analyst,2019,,50000
+B00684563,Françoise,AYNIE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Useless,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Useless,No,No,Analyste,Consultant,2019,43500,46100
+B00723329,Thibault,KIEFFER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant,,2019,,
+B00691131,Robin,KLAJZYNGIER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00694475,Anyhouvi Justin,KOTTIN,Homme,No,Côte d'Ivoire,Studying (except thesis),,,Very satisfied,Very useful,Studying (except thesis),,,Very satisfied,Very useful,No,No,,,2019,,
+B00716629,Abhinav,KUMAR,Homme,No,Inde,In professional activity,Luxembourg,Other sector,Very unsatisfied,Useless,,,,,,No,,Program Manager,,2019,,
+B00692444,Anuja,KUMAWAT,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00694418,David,LAMBRINIDIS,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606932,Marie,SUDUCA,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,No,No,Chargée d'événementiel,Investor relations & project manager,2019,44000,35020
+B00696430,Nada,LAQSIOUAR,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00604953,Graziella,LE COURT DE BÉRU,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,No,No,Consultant junior,junior confirmé,2019,44000,46150
+B00604510,Caroline,JOSEPH,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,Analyst Finance & Réglementaire,,2019,44000,44000
+B00604686,Jihane,GUENOUN,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Other specialised, scientific and technical activities",Satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Coordinatrice Régionale - Amérique Latine et Maghreb,Responsable de projets forestiers internationaux,2019,44000,39000
+B00684655,Olivia,SPIEGELEER,Femme,No,Italie,In professional activity,France (including overseas collectivities),Property business,Satisfied,Very useful,,,,,,No,,Responsable de Programmes Immobiliers Internationaux,,2019,44500,
+B00650707,Salma,LEFRIYEKH,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00695261,Alexis,LEGENT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605968,Simon,PINEAU,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Satisfied,Not really useful,,,,,,No,,Adjoint au chef de bureau des recettes,,2019,44500,
+B00684700,Mounir,JAAFARI,Homme,No,Maroc,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,"Yes, company currently being set up (underway)","Yes, company currently being set up (underway)",,CONSULTANT,2019,44500,47300
+B00680335,Weihua,LI,Homme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00688514,Xiaotong,LI,Femme,No,Chine,,,,,,In professional activity,Belgium,"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,No,,Associate Analyst,2019,,38000
+B00693099,Ling,LI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00692390,Yiwen,LI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00686913,Yu,LIAO,Homme,No,Chine,,,,,,,,,,,,,,,,,
+B00684632,Adrien,ROUX DE BÉZIEUX,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Property business,Satisfied,Rather useful,No,No,Analyste International Graduate Program,Asset Manager,2019,45000,50500
+B00672679,Jinyi,LIU,Femme,No,Chine,Looking for a job,,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00693087,Xiaoyang,LIU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00606798,Lou,WELGRYN,Femme,Yes,France,In professional activity,France (including overseas collectivities),Transportation (Services),Satisfied,Rather useful,,,,,,No,,Product data analyst,,2019,45000,
+B00691643,Yizhi,LONG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00402429,Raphaël,MAAREK,Homme,Yes,France,Studying (except thesis),,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00692191,Yassine,MAKHLOUF,Homme,No,Maroc,,,,,,,,,,,,,,,,,
+B00531556,Vincent,WORD,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Transportation (Services),Neither satisfied nor dissatisfied,Useless,,No,,Auditeur Interne,2019,,47000
+B00605943,Marc,PICHOT DE LA MARANDAIS,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Consultant fonctionnel/sectoriel,Analyste,2019,45000,47500
+B00605593,Maxime,MARGERY,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Not really useful,,,,,,No,,Public Debt Analyst,,2019,45,
+B00684539,Paul,GERARDIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,No,No,,Chief of Staff,2019,45000,50000
+B00698766,Karine,MASSAAD,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696248,Ayoub-Mohamed,MEKHZOUNI,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00684827,Romane,BRANDT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Not really useful,No,No,Chef de projet,Chef de projet,2019,45000,43000
+B00604459,Jean,FERRAND,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Consultant opérations,Consultant Opérations,2019,45000,43000
+B00604465,Sabine,FESNEAU,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Very useful,No,No,Contrôleur Financier,Contrôleur Financier,2019,45000,54500
+B00684751,Yelda,FRAPIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00418300,Julie,GAUDIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,,,,,,No,,,,2019,45000,
+B00696325,Marc-Antoine,MONDOLONI,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Useless,,No,,Daf,2019,,83000
+B00530959,Victor,TERRAS-DOBER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,Structurer,Consultant,2019,45500,41500
+B00684996,Sylvain,BONHOURE,Homme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,,,,,,No,,Vendor Manager,,2019,45700,
+B00697838,Anaïs,MORAUD,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Teaching, research",Satisfied,Useless,No,No,,Enseignante,2019,,32000
+B00561362,Camille,MOREAU,Femme,Yes,France,Willingly unemployed,,,Very satisfied,Very useful,,,,,,No,,,,2019,,
+B00527824,David,CHICHE,Homme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Not really useful,,,,,,No,,Account Manager,,2019,45700,
+B00464272,Camille,ROSSO,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Water production and distribution, sanitation, waste management and remediation",Very unsatisfied,Rather useful,,,,,,No,,Chef de Projets Commerciaux,,2019,46000,
+B00606958,Tiffany,TAN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Consultante confirmée,Consultante Confirmée,2019,46000,48500
+B00685906,Achraf,NAIM,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00633101,Mathilde,NASSER,Femme,Yes,France,Willingly unemployed,,,Very satisfied,Very useful,Looking for a job,,,Very satisfied,Rather useful,No,No,,,2019,,
+B00606008,Colombe,MYON,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Very useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,No,No,Consultant,Consultant,2019,46000,47000
+B00605817,Aurore,MONTMAYEUR,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Very useful,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Rather useful,No,No,Operations Manager,Client project manager,2019,46000,50000
+B00684793,Nicolas,GRAND D'ESNON,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Neither satisfied nor dissatisfied,Rather useful,,,,,,No,,Contrôleur de gestion,,2019,46000,
+B00726826,Andrew,O'CONNOR,Homme,No,Australie,Looking for a job,,,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Telecommunication services,Satisfied,Not really useful,No,No,,,2019,,35000
+B00602816,Mélanie,BRADAÏA,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,No,No,,RESPONSABLE TRADE MARKETING,2019,46000,40000
+B00689728,Inès,ODDO,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00563190,Qiaozhi,OUYANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00684606,Pauline,GEORGES,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Very useful,,,,,,No,,Assistant débutant,,2019,46080,
+B00689334,Wanlin,PANG,Femme,No,Chine,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,,No,,,2019,,
+B00677793,Aditi,PARASHAR,Femme,No,Inde,,,,,,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Not really useful,,No,,Chef de Projet Digital,2019,,49676
+B00684821,Capucine,STEFANI,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Rather useful,,,,,,No,,Retail trainee manager,,2019,46600,
+B00692087,Mikaël,PASTOR SANZ,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696819,Jean-Baptiste,PAVAGEAU,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684858,Anne-Laure,MONGIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Useless,No,No,Chargée d’affaires,Chargée d’affaires,2019,47000,65000
+B00674223,Yuexiu,PEI,Femme,No,Chine,,,,,,In professional activity,United States of America,Metalworking industry and manufacturing of metal products except machinery and equipment,Satisfied,Rather useful,,No,,Product & CRM Manager,2019,,
+B00689537,Huixuan,PENG,Femme,No,Chine,In professional activity,Singapore,,Satisfied,Not really useful,In professional activity,Singapore,Insurance and financial activities,Satisfied,Not really useful,No,No,,,2019,,
+B00602922,Gaétan,BÉLAN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,No,No,Consultant en transformation digitale,Consultant,2019,47000,46500
+B00684631,Noëlle,BENOIST,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Satisfied,Rather useful,No,No,Responsable du développement,Chef de projet commerce,2019,47100,47000
+B00530419,Georges-Adrien,NAUDIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Not really useful,No,No,,,2019,47500,
+B00606487,Louis-Marie,ROMAIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),Agri-food industry,Very satisfied,Not really useful,No,No,,Chef de Projet Digital,2019,48000,53000
+B00684681,Eve,MESSULAM,Femme,Yes,France,In professional activity,France (including overseas collectivities),Tourism,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Tourism,Unsatisfied,Useless,No,No,,Chargée de mission marketing,2019,48000,48000
+B00697064,Julien,PEYRACHE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605768,Sixtine,MILLOT,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,,No,,Consultant marketing,2019,,52000
+B00693551,Léa,PHILIPPOT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00703282,Alexandre,PINON,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,"Yes, company currently being set up (underway)",,CEO / Founder,2019,,
+B00604601,Rémi,GOOSSENS,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,Junior Consultant,,2019,48000,
+B00603836,Orphée,DE BOUARD-SARRABEZOLLES,Homme,Yes,France,In professional activity,The Netherlands,Information and communications technology industry (ICT),Unsatisfied,Useless,,,,,,No,,Analyste,,2019,48000,
+B00720570,Costanza,POSER,Femme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00702560,Gianluca,POTO,Homme,No,Italie,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00676510,Yael,PRESBERG,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00690070,Xirong,QI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00688062,Ke,QIN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00695047,Caoqiong,QIU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00629000,Mehdi,RADI,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00684594,Clémence,GALOUZEAU DE VILLEPIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Teaching, research",Satisfied,Not really useful,,,,,,No,,Professeur de français,,2019,4000,
+B00689407,Yashraj,RAJANI,Homme,No,Inde,,,,,,,,,,,,,,,,,
+B00697132,Baburaj,RAMASSAMY,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Very satisfied,Rather useful,No,No,,,2019,,
+B00684788,Théo,MARÉCHEAU,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant,,2019,48500,
+B00676874,Niti,RASTOGI,Femme,No,Italie,,,,,,,,,,,,,,,,,
+B00693859,Aditi,RATHORE,Femme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00684872,Marguerite,LAPOINTE,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,No,No,Analyste financier,Analyst,2019,48500,63000
+B00694703,Mathilde,REMY,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Very satisfied,Very useful,,,,,,No,,,,2019,,
+B00530833,Nelson,PAJOT,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,Analyste,,2019,49000,
+B00695281,Domitille,REYE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00715165,Alfredo,RIGGIO,Homme,No,Italie,,,,,,,,,,,,,,,,,
+B00605999,Arnault,MULLIEZ,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Transaction services consultant,Consultant Financier,2019,49000,53000
+B00465083,Alexandre,RINALDI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00685009,Quentin,MONIER,Homme,Yes,France,In professional activity,Luxembourg,"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Rather useful,In professional activity,Luxembourg,"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Rather useful,No,No,,Senior tax advisor,2019,49000,61500
+B00529997,Coralie,LEGOUFFE,Femme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Very satisfied,Not really useful,,,,,,No,,Graduate Programme Dirigeant,,2019,49000,
+B00603503,Diane,CAMINCHER,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Useless,No,No,Customer Care Manager,Customer Success Manager,2019,49000,47500
+B00693178,Prune,ROUSSEL,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00654939,Camille,ROUX,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00692531,Valentin,ROYER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604150,Axelle-Orianne,GARNIER,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,CONSULTANT,Consultant,2019,49600,49500
+B00675132,Milena,RUDNIK,Femme,No,Pologne,,,,,,,,,,,,,,,2019,,
+B00694013,Sauvanne,SAINT LEGER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684674,Thomas,RIGAUDIÈRE,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,Consultant,Consultant,2019,50000,49000
+B00685318,Afsaneh,SAMET TEHRANI,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00650043,Ayoub,SAMI,Femme,No,Maroc,,,,,,,,,,,,,,,,,
+B00683044,Chandrajoy,SARKAR,Homme,No,Inde,,,,,,In professional activity,Belgium,"Energy (Electricity, gas, steam and air conditioning production and distribution)",Satisfied,Rather useful,,No,,Freight Operator,2019,,55000
+B00696726,Maxime,SAUNIER,Homme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Useless,,,,,,No,,,,2019,,
+B00606591,Aurélie,SALES,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,,,,,,No,,Consultant fonctionnel/sectoriel,,2019,50000,
+B00695842,Marie,SCRIBE,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,No,,Consultante junior,2019,,35500
+B00684936,Romain,VIONNET,Homme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Agri-food industry,Very satisfied,Not really useful,No,No,Consumer Insights Planner,Consumer insights planner,2019,50000,50000
+B00684734,Sami,MACHTA,Homme,No,Tunisie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very unsatisfied,Very useful,,,,,,No,,VC Strategy & Data Analyst,,2019,50000,
+B00684699,Vadim,LAHMI,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Not really useful,,,,,,No,,Consultant financier,,2019,50000,
+B00602596,Hugo,BAILLY,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,,,,,,No,,Chargé d'affaires,,2019,50000,
+B00747795,Benedict,SEVOV,Homme,No,Allemagne,Writing a thesis,,,Very satisfied,Very useful,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,,,2019,,76000
+B00719459,Prankul,SHARMA,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00692516,Jin,SHI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00695646,Zihan,SHI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00690907,Etienne,SIMON,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Not really useful,,No,,Adjoint au chef de bureau,2019,,45000
+B00638450,Saurav,SINHA,Homme,No,Inde,,,,,,In professional activity,United Arab Emirates,Telecommunication services,Very satisfied,Very useful,,No,,Analyst M&A,2019,,71335.03068
+B00698603,Victor,SIRET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00603996,Mathilde,DESMAZIERES,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Neither satisfied nor dissatisfied,Rather useful,No,No,Asset Manager,Asset Manager,2019,50000,50000
+B00530279,Margot,MARCHAIS-MAURICE,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Telecommunication services,Very satisfied,Very useful,,No,,Analyste Data Mining,2019,,51540
+B00604606,Marie,GORIN,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604986,Eloi,LE RUDULIER,Homme,Yes,France,In professional activity,Côte d'Ivoire,Business and trade,Satisfied,Rather useful,In professional activity,Côte d'Ivoire,Business and trade,Very satisfied,Not really useful,No,No,Offline Sales & Partner Network Manager,Directeur Marketing,2019,50478.59631,60051.47245
+B00698539,Mehmet Mert,SUMA,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00527490,Kévin,BESNARDEAU,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,No,No,Brand manager,Vendor Manager,2019,50900,46000
+B00528929,Simon,GLUCK,Homme,Yes,France,In professional activity,France (including overseas collectivities),Chemical industry,Satisfied,Useless,,,,,,No,,Financial Controller,,2019,51000,
+B00684990,Pascal,VIEULES,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Analyste,Analyste,2019,51100,52000
+B00675015,Isabelle,TERRIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00697400,Thu,TESSIER,Femme,Yes,France,Studying (except thesis),,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Very unsatisfied,Not really useful,No,No,,Collaboratrice - avocat à la cours,2019,,105000
+B00528080,Quentin,DE CABROL,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Very useful,,,,,,No,,Associate Consultant,,2019,51440,
+B00697946,Alexis,THOME,Homme,Yes,France,Looking for a job,,,Unsatisfied,Useless,,,,,,No,,,,2019,,
+B00681491,Alessandro,TINELLI,Homme,No,Italie,Looking for a job,,,Satisfied,Not really useful,In professional activity,Italy,Other sector,Satisfied,Very useful,No,No,,Investment Analyst,2019,,32000
+B00695302,Alexia Isabelle Ghislaine,TISSOT,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Consultante en Transformation Digitale,,2019,,
+B00602802,Imane,BOUYA,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,,,2019,52000,48000
+B00672918,Justine,USABYIMANA,Femme,No,Rwanda,,,,,,,,,,,,,,,2019,,
+B00689729,Maria,VALERSHTEYN,Femme,No,États-Unis,,,,,,,,,,,,,,,2019,,
+B00604120,Antonin,FOUQUET,Homme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Very useful,,,,,,No,,Chef de Produit,,2019,52000,
+B00606802,Alexandra,WERSCHINE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Associate,,2019,52500,
+B00693690,Baptiste,VELLE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684944,Suzanne,BABER,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Useless,No,No,Analyste Financier,Analyste private equity,2019,52900,66000
+B00606284,Timothé,SOLER,Homme,Yes,France,In professional activity,France (including overseas collectivities),Transportation (Services),Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,No,No,Operations Manager,Senior Analyst,2019,54000,64000
+B00690351,Yuqiushi,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00691682,Chenlu,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00686041,Shuyi,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00692974,Yidan,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00689345,Fei,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00693150,Qianqian,WEI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00460212,Mathilde,PESLERBE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Consultant en stratégie,,2019,54000,
+B00603762,Florian,DA SILVA INACIO,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Very useful,No,No,Asset Manager,Asset Manager,2019,54000,65500
+B00690298,Yingping,WU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00726827,Ju-Yi,WUNG,Femme,No,TAÏWAN,Studying (except thesis),,,Very satisfied,Rather useful,,,,,,"Yes, company currently being set up (underway)",,,,2019,,
+B00696342,Fei,XU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00528595,Nicolas,FABAYRE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Analyst,Consultant,2019,54000,66500
+B00674312,Chenyu,YING,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00531560,Sophie Ciyi,WU,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,No,No,Analyste,,2019,55000,55000
+B00690775,Ruoying,ZHANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00690149,Yue,ZHANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00684475,Yifan,ZHANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00673826,Xuehan,ZHAO,Femme,No,Chine,Looking for a job,,,Very satisfied,Rather useful,Looking for a job,,,Satisfied,Not really useful,No,No,,,2019,,
+B00682243,Yuntian,ZHU,Femme,No,Chine,Looking for a job,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00694594,Jiawei,ZHU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00715169,Maximilian Fritz,ZIESEMER,Femme,No,Allemagne,,,,,,,,,,,,,,,,,
+B00689628,Wangyang,ZOU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00602938,Clémentine,BELLON,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,BUSINESS ANALYST,,2019,55000,
+B00714893,Aurore,JACQUES,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Very useful,"Yes, company currently active","Yes, company currently active",Directrice Générale,,2019,10000,15000
+B00747790,Kanin,HONGSMATIP,Homme,No,Thaïlande,In professional activity,Thailand,Accommodation and catering,Very satisfied,Rather useful,,,,,,No,,GM,,2019,13862.14675,
+B00603157,Astrid,BONNET,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Not really useful,,,,,,No,,Graduate Programme Dirigeant,,2019,55000,
+B00684726,Ikrame,TAF,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,analyste stratégie,,2019,55500,
+B00639474,Shuyi,ZHAO,Femme,No,Chine,In professional activity,China,Accommodation and catering,Satisfied,Rather useful,In professional activity,China,Tourism,Satisfied,Rather useful,No,No,Business Intelligence Analyst,Business Intelligence Analyst,2019,16261.54741,16452.30482
+B00528320,Mathilde,DIAKONOFF,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Useless,No,No,N.a.,,2019,56000,56000
+B00687904,Jiahui,YAN,Femme,No,Chine,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Very useful,No,No,Analyst,Analyst,2019,21000,89405.9072
+B00685020,Louise,BOUTINET,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Business analyst,,2019,56300,
+B00688919,Kexin,XU,Femme,No,Chine,In professional activity,China,Other sector,Neither satisfied nor dissatisfied,Rather useful,,,,,,No,,,,2019,21940.18302,
+B00530100,Alexandre,MASSOT-BORDENAVE,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Very useful,,,,,,No,,ASSET MANAGER,,2019,56500,
+B00689782,Xinyi,WANG,Femme,No,Chine,In professional activity,China,Insurance and financial activities,Satisfied,Rather useful,,,,,,No,,Analyst,,2019,25811.98002,
+B00692994,Yue,Xiong,Femme,No,Chine,In professional activity,China,IT operations and information services (ICT Services),Satisfied,Rather useful,,,,,,No,,Business Analyst,,2019,25811.98002,
+B00687438,Jiaolin,CHEN,Femme,No,Chine,In professional activity,China,Information and communications technology industry (ICT),Satisfied,Not really useful,,,,,,No,,Account executive,,2019,25944.02436,
+B00605470,Juan,LONDONO LEON,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Other specialised, scientific and technical activities",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Very useful,No,"Yes, company currently being set up (underway)",Chef de Produit Technique,,2019,56500,57000
+B00698602,Yue,ZHAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00634208,Laetitia,TREZOS,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Not really useful,No,No,Administrateur département joaillerie,Administratrice des départements Montres et Bijoux,2019,28000,34000
+B00684838,Paul,LECOCQ,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Junior Consultant,Junior Consultant,2019,56500,54000
+B00528160,Edmond,DE VIENNE,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Consultant,Consultant Junior,2019,57000,60000
+B00606664,Clara,SCIBERRAS,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,No,No,Associate,Associate,2019,57325,85000
+B00684890,Lucile,RITCHIE,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,,,,,,No,,Senior data analyst,,2019,58000,
+B00607109,Nicolas,TSCHANN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,Consultant,Consultant,2019,58000,59200
+B00688855,Yao,FU,Femme,No,Chine,In professional activity,China,Business and trade,Satisfied,Rather useful,,,,,,No,,Investment Analyst,,2019,31593.86354,
+B00684787,Antoine,CHEVILLON,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Associate,Consultant en Stratégie,2019,58200,62000
+B00697601,Anaïs,LORICOURT,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,RESPONSABLE D'AFFAIRES,,2019,32000,
+B00527710,Antoine,BOURDALLÉ,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Unsatisfied,Rather useful,,No,,Contrôleur de gestion CHC,2019,,58300
+B00684687,Anne-Charlotte,MESNIER,Femme,Yes,France,In professional activity,Switzerland,Insurance and financial activities,Unsatisfied,Not really useful,,,,,,No,,Cheffe de Projet Junior,,2019,59179.55682,
+B00688064,Roger-Xavier,MACIA,Homme,Yes,France,In professional activity,Senegal,IT operations and information services (ICT Services),Very satisfied,Rather useful,In professional activity,Senegal,Business and trade,Very satisfied,Very useful,No,No,Head of Marketplace,Directeur Commercial,2019,33538.7844,
+B00605707,Marion,MÉNARD,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00603121,Gaël,BLIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,Associate,Senior Associate,2019,60000,90860
+B00603912,Aurélien,DEBIÈVRE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,A,Business Developer,2019,60000,43000
+B00684642,Léa,FRANCONY,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Consultant,,2019,60000,
+B00588221,Lu,BAI,Femme,No,Chine,In professional activity,China,IT operations and information services (ICT Services),Satisfied,Rather useful,,,,,,No,,Junior Product Manager,,2019,34846.17303,
+B00528123,Edouard,DE LESTRANGE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,,Associate,2019,61000,61000
+B00684871,Tristan,LANSON,Homme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,In professional activity,United Kingdom,"Consultancy firms, Design offices, Engineering",Satisfied,,No,No,Associate,,2019,61533.94856,61313.278
+B00604895,Thibaud,HUMBERT,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,,,,,,No,,Consultant,,2019,62000,
+B00684778,Amandine,GUIGNARD,Femme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Satisfied,Very useful,,,,,,No,,Asset Manager Immobilier,,2019,62000,
+B00715170,Hélène,SIRE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00715168,Charlotte Atalanta Joslin,VOÛTE,Femme,No,Suisse,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Very useful,,,,,,No,,Junior Merchandising Manager,,2019,35500,
+B00603226,Clémence,BOURGEOIS,Femme,Yes,France,In professional activity,Germany,"Automotive, aerospace, shipbuilding, railway industry",Satisfied,Useless,In professional activity,Germany,"Automotive, aerospace, shipbuilding, railway industry",Satisfied,Useless,No,No,Junior Manager Program,Junior Manager Program,2019,62000,71000
+B00674018,Lorie,EBANGA,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Useless,In professional activity,France (including overseas collectivities),Human health and social work,Very satisfied,Very useful,No,No,Chargée de recrutement,,2019,3,35300
+B00604529,Anna,JUMENTIER,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant,,2019,63000,
+B00684526,Nicolas,LEJADE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Useless,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Neither satisfied nor dissatisfied,Useless,No,No,Sales Accelerator,Account Executive,2019,64000,69000
+B00684628,Antoine,ELIAS,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Useless,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,Consultant,Associate Consultant,2019,65000,65000
+B00736274,Guillaume,SASSUS,Homme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Useless,,,,,,No,,Chef de peloton,,2019,37000,
+B00692552,Qi,WANG,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Satisfied,Not really useful,,,,,,No,,FP&A Analyst,,2019,37000,
+B00606149,Guillaume,PANSIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,No,No,Associate,Senior Associate,2019,68600,88000
+B00606571,Elyas,SADOU,Homme,Yes,France,In professional activity,Ireland,Information and communications technology industry (ICT),Neither satisfied nor dissatisfied,Not really useful,In professional activity,United Kingdom,Insurance and financial activities,Very unsatisfied,Useless,No,No,Account Manager,Product Operations Manager,2019,70000,85838.58921
+B00695994,Danaé,BECHT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,,,,,,No,,Analyste projets et mesure d'impact,,2019,38000,
+B00526852,Sofiane,ALLA,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,No,No,Analyste / Chargé d'investissements junior,Chargé d'Investissements,2019,70000,66000
+B00696142,Justine,BRIAND,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,No,No,Consultant développement durable,Consultant,2019,38000,38000
+B00528823,Mariam,GASSAMA,Femme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,In professional activity,United Kingdom,Insurance and financial activities,Very satisfied,Rather useful,No,No,Investment Banking Analyst,Analyst,2019,78315.93453,100330.8186
+B00605079,Ken,LECOUTRE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Teaching, research",Neither satisfied nor dissatisfied,Useless,,,,,,No,,Directeur marketing et opérations,,2019,80000,
+B00531344,Théo,SAFAR,Homme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Neither satisfied nor dissatisfied,Very useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,No,No,Investment Analyst,INVESTMENT ANALYST,2019,85000,107000
+B00634218,Gwenaëlle,GINOT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Human health and social work,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Human health and social work,Satisfied,Not really useful,No,No,Chargée de mission RSE et Compliance,Responsable Développement Durable Groupe,2019,38000,46200
+B00707227,Anatol Justin,TONG,Homme,No,,,,,,,,,,,,,,,,2019,,
+B00694096,Kulvinder,KULVINDER SINGH,Homme,No,Inde,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,,,,,,No,,Proposal Coordinator,,2019,38440,
+B00605156,Lydia,KERBACHE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Analyste en Private Equity,,2019,85000,
+B00697002,Anastasiia,BELUGINA,Femme,No,Russie (fédération de),In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,,,,,,"Yes, company currently being set up (underway)",,Consultante,,2019,39000,
+B00684773,Maud,BELDENT,Homme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Neither satisfied nor dissatisfied,Not really useful,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Useless,No,No,Analyste M&A,M&A analyste,2019,91741.52331,130430.0641
+B00529047,Paul,GUERRIERI,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Very useful,No,No,Banking Analyst (M&A),M&A Analyst,2019,95000,95000
+B00693638,Ludivine,BOUBÉE DE GRAMONT,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Rather useful,,,,,,No,,Marketing Manager Imagers & Sensors,,2019,40000,
+B00604844,Adélaïde,HEYBERGER,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Very useful,No,No,Banquier d’affaires,Associate Banquier d’affaires M&A,2019,100000,160000
+B00604081,Soltan,DRISS,Homme,No,Tunisie,In professional activity,United Kingdom,"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Investment banking analyst,,2019,100691.9158,
+B00605422,Clémentine,MOUSSERON,Femme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,In professional activity,United Kingdom,Insurance and financial activities,Very satisfied,Rather useful,No,No,Analyste M&A,Analyste M&A,2019,106285.9111,123964.3003
+B00570278,Abhijeet,GUPTA,Homme,No,Inde,In professional activity,France (including overseas collectivities),Chemical industry,Neither satisfied nor dissatisfied,Not really useful,,,,,,No,,Forecasting Officer,,2019,40000,
+B00685026,Shams,RADJABALY MAMODHOUSSEN,Homme,Yes,France,Looking for a job,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00684846,Emma,RAPPAPORT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684792,Matthieu,RAULT,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Rather useful,,No,,Senior Business Analyst,2019,,58000
+B00606394,Joseph,REPAIN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606435,Mélisende,RIGHENZI DE VILLERS,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Very satisfied,Very useful,,No,,,2019,,
+B00695016,Gioia,REGGIDORI,Femme,No,Italie,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,No,No,Cadre financier,Finance Manager,2019,40625,44000
+B00634226,Clémentine,MARCELLI,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,No,No,Auditrice assistante,Chargée de mission philanthropie/ Responsable administratif et financier,2019,40700,42700
+B00684966,Benjamin,RIOUALL,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,,Auditeur,2019,,51000
+B00674241,Ahmed,BOUCHENTOUF,Homme,No,Maroc,In professional activity,France (including overseas collectivities),Chemical industry,Very satisfied,Rather useful,,,,,,No,,Graduate UFLP,,2019,40949,
+B00606447,Sébastien,RIVIERE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606486,Anastasie,ROMAIN,Femme,Yes,France,Looking for a job,,,Very unsatisfied,Useless,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Not really useful,No,No,,,2019,,
+B00606542,Charlotte,ROYER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00685022,Helga,SALLÉ,Femme,Yes,France,Looking for a job,,,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,,consultant,2019,,42000
+B00695026,Anne-Laure,MARX,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Useless,,,,,,No,,Digital & Sales Manager,,2019,42000,
+B00606638,Fanny,SAUVIGNON,Femme,Yes,France,In professional activity,The Republic of Korea,"Other specialised, scientific and technical activities",Satisfied,Useless,,,,,,No,,Business Development Manager,,2019,,
+B00695684,Noémie,KERGROHENN,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606667,Othmane,SEBBOUH,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00531595,Laurène,SECA,Femme,Yes,France,,,,,,Writing a thesis,,,Unsatisfied,Not really useful,,No,,,2019,,
+B00606684,Charlotte,SEILER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00692778,Hong Ngoc,DAO,Femme,No,Vietnam,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,,,,,,No,,Consultant,,2019,43000,
+B00606689,Mathias René,SELLAM,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696427,Kyuhee,KIM,Homme,No,Corée (République de),In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Unsatisfied,Rather useful,,,,,,No,,Auditeur Junior,,2019,43000,
+B00684677,Quitterie,SIROT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00687361,Antoine,MAATAR,Homme,Yes,France,In professional activity,France (including overseas collectivities),Telecommunication services,Very satisfied,Rather useful,,,,,,No,,Data Analyst,,2019,43000,
+B00531735,Hadeye,SISSOKO,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00657495,Yuwei,WANG,Femme,No,Chine,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Very useful,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,No,No,,Assistant Portfolio Manager,2019,43000,85392.67446
+B00696794,Fangting,ZHU,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,No,No,Analyst,Chargée d’affaire,2019,43080,56300
+B00531801,Anne,SPINOSA,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606921,Marie,STOPPA,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,,No,,Software engineer,2019,,48500
+B00211622,Fleur,BOUDA,Femme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,No,No,Chargé de conduite de projets,Chargée de conduite de projets,2019,44000,48000
+B00684961,Ludmila,SURUN,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00531868,Antonin,SUSSI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00706556,Chinmay,KHANDALKAR,Homme,No,Inde,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Very useful,,,,,,No,,Client Engagement Analyst,,2019,44000,
+B00606947,Samira,TAÏBI,Femme,No,Algérie,,,,,,,,,,,,,,,2019,,
+B00696557,Rui,QI,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Other industries (Wood, printing, manufacturing, repair and installation of machinery and equipment, etc.)",Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Metalworking industry and manufacturing of metal products except machinery and equipment,Very satisfied,Very useful,No,No,Digital Analytics Community Manager,Digital Analytics Community Manager,2019,44000,47600
+B00530965,Vincent,TEXIER,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Very useful,Studying (except thesis),,,Very satisfied,Very useful,No,No,,,2019,,
+B00696988,Saad,GHARBI,Homme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Useless,,,,,,No,,,,2019,44300,
+B00607114,Isabelle,URBAH,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Very useful,,No,,Data analyste,2019,,44500
+B00606731,Alexandre,VANDEVILLE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684537,Julien,VARIN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00695699,Laurélie,VERON,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Ingénieure projet,,2019,44600,
+B00606826,Pierre,VERDIER,Homme,Yes,France,Looking for a job,,,Satisfied,Useless,In professional activity,France (including overseas collectivities),Accommodation and catering,Very satisfied,Not really useful,No,No,,3000,2019,,45000
+B00416957,Marine,CRESCIONI,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Very useful,No,No,Consultant Fonctionnel Sectoriel,Retail vendor manager 1,2019,45000,46000
+B00703274,Yvan,DEROGIS,Homme,Yes,France,In professional activity,France (including overseas collectivities),,Very satisfied,Rather useful,,,,,,"Yes, company currently active",,Freelance,,2019,45000,
+B00693756,Mohamed,DIOURI AYAD,Homme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant fonctionnel / sectoriel,,2019,45000,
+B00606836,Louise,VERRIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684806,Laurène,WEIZMAN,Femme,Yes,France,Studying (except thesis),,,Very satisfied,Very useful,,,,,,No,,,,2019,,
+B00531549,Tom,WILTBERGER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00211642,Long-Tom,YIN,Homme,Yes,France,Looking for a job,,,Unsatisfied,Rather useful,,,,,,No,,,,2019,,
+B00607142,Laure,ZAMIARA,Femme,Yes,France,Looking for a job,,,Neither satisfied nor dissatisfied,Useless,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Neither satisfied nor dissatisfied,Useless,No,No,,Assistante ADV,2019,,37200
+B00686915,Arun,KWATRA,Homme,No,Inde,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very unsatisfied,Not really useful,No,No,Analyste Financier,,2019,45000,45000
+B00676770,Timothée,LEROLLE,Homme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Very useful,,,,,,No,,Cadre dirigeant,,2019,45000,
+B00684781,Rémy,PONCET,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Very unsatisfied,Useless,,No,,,2019,,71000
+B00605986,Philippine,PLOIX,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605861,Gabrielle,PEYRELONGUE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,,,,,,No,,,,2019,,
+B00679326,Céliane,TRUCHET,Femme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Satisfied,Useless,,,,,,No,,Analyste,,2019,45000,
+B00605857,Mahaut,PETIT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00024134,Guillaume,PERRIN,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00691519,Jiaxi,WU,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Chargé d'affaires Forensics,,2019,45000,
+B00657085,Juan Wen,XU,Femme,No,Chine,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,,,,,,,No,,Corporate Finance Analyst,,2019,45000,
+B00694602,Tongyan,YE,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Not really useful,No,No,Assistant Auditeur,Senior assistante,2019,45000,46000
+B00723713,Maximilien Benjamin,ATTAR,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Consultant,Consultant,2019,45120,48000
+B00693754,El Mehdi,BENJELLOUN TOUIMI,Homme,No,Maroc,In professional activity,France (including overseas collectivities),,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,Junior 1,Junior 2,2019,45333,47000
+B00605835,Vincent,PERRET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606224,Judith,PEREIRA,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Neither satisfied nor dissatisfied,Useless,,No,,Sale,2019,,59000
+B00606225,Yohan,PEREIRA,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00693796,Yassine,BENJELLOUN,Homme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Analyste junior en transaction services,,2019,46000,
+B00684862,Octave,PAYE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606166,Eva,PARKER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00691462,Clémentine,LESCURE,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Product Experience Manager,Product expérience Manager,2019,46000,55000
+B00684993,Célia,OYHENART,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Very satisfied,Rather useful,In professional activity,United Kingdom,Property business,Satisfied,Not really useful,No,No,,Analyste Investissements,2019,,122626.556
+B00606106,Ombeline,O'MAHONY,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00693181,Julien,PUCHOL,Homme,Yes,France,In professional activity,France (including overseas collectivities),Transportation (Services),Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Very useful,No,No,Digital project manager,Product owner,2019,46000,50000
+B00697759,Marin,ROMAGNÉ,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Satisfied,Very useful,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Satisfied,Rather useful,No,No,Analyste Financement de projets,Analyste Financement de projets,2019,46000,42000
+B00606080,Thomas,NOSLIER,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,No,,Analyste,2019,,69000
+B00398389,Thê Duc,NGUYEN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00690653,Liuqing,YANG,Femme,No,Chine,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,,,,,,No,,Business Analyst,,2019,46000,
+B00606034,Marc,NAULEAU,Homme,No,Italienne,,,,,,,,,,,,,,,,,
+B00395599,Paul,GARSUAULT,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Not really useful,No,No,Consultant en stratégie et transformation,Inspecteur,2019,46150,44000
+B00696448,Antoine,HERBEMONT,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,,,2019,46400,
+B00691861,Mingzhu,LU,Femme,No,Chine,In professional activity,China,Pharmaceutical industry,Very satisfied,Rather useful,In professional activity,China,Pharmaceutical industry,Very unsatisfied,Rather useful,No,No,Product Manager,Senior Product manager,2019,46461.56404,39337.08972
+B00693720,Charlotte,COURTOIS,Femme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Rather useful,,,,,,No,,Chargée de mission,,2019,46500,
+B00605404,Anas,MOULOUDI,Homme,No,Maroc,,,,,,In professional activity,France (including overseas collectivities),Property business,Very unsatisfied,Very useful,,No,,Fund Management Associate,2019,,67000
+B00692321,Danjing,LIU,Femme,No,Chine,In professional activity,France (including overseas collectivities),Chemical industry,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Chemical industry,Satisfied,Rather useful,No,No,"Chef de Projet International E-Travel Retail, TR Worldwide",International e-travel retail manager,2019,46800,48300
+B00715164,Nicolas,MERIGO,Homme,No,Italie,In professional activity,United Kingdom,Business and trade,Very satisfied,Rather useful,In professional activity,United Kingdom,Other sector,Very satisfied,Rather useful,No,No,Brand Specialist,Brand Specialist,2019,46989.56072,46821.04866
+B00605384,Alexia,MORLIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00697958,Daniel,GRIEB,Homme,No,Allemagne,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Rather useful,No,No,Project retail Manager,International Project Manager,2019,47000,47000
+B00703529,Tima,MASSAAD,Femme,No,Syrie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Quantitative Analyst,Quantitative Analyst,2019,47000,51000
+B00684911,Sixtine,MORIN,Femme,Yes,France,Studying (except thesis),,,Very satisfied,Not really useful,Studying (except thesis),,,Very satisfied,Very useful,No,No,,,2019,,
+B00574878,François,PÉLABON,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Very useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Consultant en Sécurité,Consultant Cybersécurité,2019,47000,52320
+B00605807,Etienne,MONNIER,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Very useful,,,,,,No,,,,2019,,
+B00691901,Adrien,COSSON,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Consultant en transformation digitale,Consultant en organisation,2019,47250,49500
+B00747788,Sanae,ABE,Femme,No,Japon,In professional activity,Japan,"Consultancy firms, Design offices, Engineering",Satisfied,Useless,,,,,,No,,Analyst,,2019,47392.01924,
+B00684945,Anna,MONTAGUTELLI,Femme,Yes,France,Studying (except thesis),,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00605796,Louise-Marie,MOLLARD,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Teaching, research",Unsatisfied,Useless,,No,,enseignante,2019,,26000
+B00685035,François,MEVELLEC,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605761,Pauline,MIDOL,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Human health and social work,Neither satisfied nor dissatisfied,Not really useful,,No,,Assistante polyvalente,2019,,18655
+B00698009,Arnaud,LABROUVE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Rather useful,No,No,Inspecteur activités de marché et instruments financiers,Inspecteur activités de marchés et instruments financiers,2019,48000,52000
+B00674105,Zeyu,LIU,Homme,No,Chine,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Satisfied,Rather useful,,,,,,No,,Global pricing manager,,2019,48000,
+B00684709,Sébastien,MION,Homme,Yes,France,Looking for a job,,,Satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,,Marketing Analyst & Consultant,2019,,38000
+B00684542,Diégo,MERMET,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Rather useful,Studying (except thesis),,,Very satisfied,Rather useful,No,No,,,2019,,
+B00694778,Constance,PERRIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,No,No,,Team Lead Operations Development,2019,48000,54000
+B00697827,Quentin,RIBLIER,Homme,Yes,France,In professional activity,Germany,Property business,Satisfied,Not really useful,Looking for a job,,,Satisfied,Not really useful,No,No,Financial Business Developer,,2019,48000,
+B00605635,Aliénor,MARTIN-PÉRIDIER,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Transportation (Services),Satisfied,Not really useful,No,No,,Assistante commerciale et de gestion,2019,,27600
+B00692785,Javed,AQIL,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Very useful,,,,,,No,,Analyste Fund Management,,2019,48500,
+B00684585,Alexia,MARTIN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Junior 1 - FAS - Transaction Services,,2019,,
+B00605584,Marine,MARCDARGENT,Femme,Yes,France,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,Looking for a job,,,Neither satisfied nor dissatisfied,Useless,No,No,,,2019,,
+B00695461,Gauthier-Jens,BALKAN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant,,2019,49000,
+B00530243,Clara,MALET,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00720577,Jean-Baptiste,DU CRAY,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Very useful,,,,,,No,,Analyste,,2019,49000,
+B00690065,Servane,GÉRARD,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Very satisfied,Rather useful,No,No,Auditeur,Auditeur financier,2019,49000,54000
+B00529876,Julie,LOFFI,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Rather useful,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Rather useful,No,No,,,2019,,
+B00570523,Richard,MOATTI,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Rather useful,No,No,Junior Transaction services,Analyste en Transaction Services,2019,49000,50000
+B00684602,Tristan,LIBAULT DE LA CHEVASNERIE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605064,Nicolas,LÉVY,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605024,Charles,LEPAS,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Very useful,Studying (except thesis),,,Very satisfied,Very useful,No,No,,,2019,,
+B00674308,Wassim Ahmed,TOUAM,Homme,No,Algérie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,,,,,,No,,Analyste M&A,,2019,49000,
+B00693233,Sophie,RIVIÈRE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Very satisfied,Very useful,,,,,,No,,Appui Management,,2019,49180,
+B00605312,Ibrahim,LARAQI LHOUSSEINI,Homme,No,Maroc,Willingly unemployed,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00605314,Jean-Baptiste,LARCHET,Homme,Yes,France,,,,,,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,,No,,,2019,,
+B00697302,Meriéme,BELHADJ,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,associate consultant,Assistante consultant,2019,50000,55000
+B00684906,Marie,LARROQUE,Femme,Yes,France,Looking for a job,,,Neither satisfied nor dissatisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,No,No,,Consultant,2019,,43080
+B00662642,Qiao,HU,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very unsatisfied,Rather useful,No,No,Strategy and Venture analyst,Strategy and Venture consultant,2019,50000,50000
+B00684882,Zoé,LE MEUR,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00685029,Chloé,LANGELLIER,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,,Consultant,2019,,56000
+B00605157,Manon,KERBEC,Homme,No,Maroc,,,,,,,,,,,,,,,,,
+B00529386,Cécile,JOURDAIN,Femme,Yes,France,Looking for a job,,,Very unsatisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very unsatisfied,Not really useful,No,No,,Product Manager,2019,,42000
+B00686027,Jean,TERNISIEN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,Strategy & Marketing Consultant,,2019,50000,
+B00605144,Badr,KASSID,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00604492,Zoé,JAVAL,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604867,Mathilde,HORANIEH,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00529195,Inès,HERBAUT,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Useless,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,No,No,,,2019,,
+B00604795,Leila,HATIM,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00692925,Anas,ANTARI,Homme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Not really useful,No,No,Chargé de projets,Analyte financier promotion immobilière,2019,51000,68000
+B00529111,Khadidja,HADOUN,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696268,Thomas,NIVET,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Building industry, Construction and public works",Satisfied,Not really useful,,No,,Responsable de programmes,2019,,50000
+B00604742,Priscille,GURS,Femme,Yes,France,Willingly unemployed,,,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,,Conseiller junior,2019,,62100
+B00684775,Thibault,GIRY,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605672,François,GAÜZERE-MAZAURIC,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00692266,Xuebin,CHEN,Homme,No,Chine,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,Consultant Financial Advisory,,2019,52000,
+B00414987,Ayoub,ABOUNAIM,Homme,No,Maroc,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,In professional activity,France (including overseas collectivities),Transportation (Services),Satisfied,Not really useful,"Yes, company currently being set up (underway)",No,,,2019,,18600
+B00721369,Marion,GAILLEZ,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Very useful,No,No,Chef de Projet Europe - Graduate Program,Chef de Projet Europe (Graduate Programme),2019,52000,42500
+B00692764,Amélie,KOUIDER,Femme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Property business,Satisfied,Rather useful,No,No,Analyste financier,Asset manager - Gerante,2019,52000,70000
+B00606715,Bastien,VALLÉE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Ingénieur-consultant,,2019,52000,
+B00691498,Louis,O'QUIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Rather useful,No,No,Fund Management Graduate Analyst,Chargé d’affaires,2019,52200,80000
+B00693262,Zineb,CHRAIBI,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,Associate Consultant,,2019,52500,
+B00602701,Margaux,ABRIEU,Femme,Yes,France,,,,,,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Useless,,No,,,2019,,
+B00602722,Kyann,AGHSAEI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00695212,Filippo,PASTORE,Homme,No,Italie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Analyst,Associate,2019,53000,55005
+B00690738,Enzo,STAUFFNER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Building industry, Construction and public works",Very unsatisfied,Rather useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Rather useful,No,No,Project Management,PROJECT MANAGEMENT,2019,53000,48000
+B00715167,Samuel,CALÒ,Homme,No,Italie,In professional activity,Italy,"Consultancy firms, Design offices, Engineering",Very unsatisfied,Rather useful,,,,,,No,,Associate Consultant,,2019,54000,
+B00526855,Angélique,ALLAIRE,Femme,Yes,France,Writing a thesis,,,Satisfied,Rather useful,Writing a thesis,,,Satisfied,Not really useful,No,No,,,2019,,
+B00677244,Lou,DUMON,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Very useful,,,,,,No,,,,2019,54000,
+B00602557,Alice,ARDIET,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00460188,Julie,LAGARRIGUE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Associate,,2019,54000,
+B00602846,Léo,BARBIER,Homme,Yes,France,Willingly unemployed,,,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),,Very satisfied,Very useful,No,"Yes, company currently being set up (underway)",,COO,2019,,
+B00684937,Arthur,BELMER,Homme,Yes,France,Studying (except thesis),,,Satisfied,Very useful,,,,,,No,,,,2019,,
+B00688032,Shreya,TYAGI,Femme,No,Inde,In professional activity,France (including overseas collectivities),Other sector,Very satisfied,,,,,,,No,,Chef de Produit Digital Data,,2019,54000,
+B00717854,Hongjie,LI,Femme,No,Chine,In professional activity,China,Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,analyst,,2019,54205.15804,
+B00560538,Geoffroy,BARRUEL,Homme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Rather useful,No,No,Analyste Stratégie,Analyste Stratégique,2019,54450,58500
+B00716923,Vittorio,ANDREONI,Homme,No,Italie,In professional activity,France (including overseas collectivities),Chemical industry,Satisfied,Rather useful,In professional activity,Germany,Chemical industry,Satisfied,Rather useful,No,No,Product manager assistant,commercial optimisation manager,2019,55000,84000
+B00684931,Zineb,BENJELLOUN TOUIMI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00700063,Aabir,BENNANI,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Consultante en stratégie,,2019,55000,52000
+B00684738,Yasmine,BENNANI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00504867,Imane,MEZYAOUI,Femme,No,Maroc,In professional activity,France (including overseas collectivities),Telecommunication services,Very satisfied,Rather useful,,,,,,No,,Market Research Analyst,,2019,55000,
+B00677967,Marine,MOUSSEAUX,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant en stratégie,,2019,55000,
+B00689518,ROHIT,SUBASH NAIR,Homme,No,Inde,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,,,,,,No,,Risk analyst,,2019,55000,
+B00603050,Juliette,BERT,Homme,Yes,France,,,,,,,,,,,,,,,,,
+B00684573,Camille,BERTIN,Femme,Yes,France,Looking for a job,,,Satisfied,Not really useful,In professional activity,Switzerland,IT operations and information services (ICT Services),Satisfied,Not really useful,No,No,,Chef de projet Marketing Digital,2019,,63871.37496
+B00603061,Aristide,BERTRAND,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684874,Justine,BIGOT DE PREAMENEU,Homme,Yes,France,,,,,,,,,,,,,,,,,
+B00603210,Arthur,BOULLENGER,Homme,Yes,France,Looking for a job,,,Neither satisfied nor dissatisfied,Useless,In professional activity,France (including overseas collectivities),"Energy (Electricity, gas, steam and air conditioning production and distribution)",Neither satisfied nor dissatisfied,Useless,No,No,,Consultant,2019,,50000
+B00684956,Anna,BRAKHA,Femme,Yes,France,Studying (except thesis),,,Unsatisfied,Not really useful,,,,,,No,,,,2019,,
+B00603504,Solène,CAMPAGNA,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684994,François,CHAMPEAU,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00696682,Dakshan,RAMACHANDRAN,Homme,No,Inde,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Useless,No,No,Global Management Trainee,Revenue Manager On Trade,2019,57000,64000
+B00477029,Coline,CHAPELET,Femme,Yes,France,Studying (except thesis),,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00477866,Nicolas,RAGU,Homme,Yes,France,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Very satisfied,Very useful,No,No,Chef de produit,Senior Product Manager,2019,57700,69000
+B00603640,Camille-Cyrine,CHEKIR,Femme,Yes,France,Studying (except thesis),,,Satisfied,Very useful,Studying (except thesis),,,Satisfied,Not really useful,No,No,,,2019,,
+B00528032,Sami,CHENBOUT,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,No,,Business Analyst,2019,,57100
+B00677529,Samuel,UDRY,Homme,No,Suisse,,,,,,,,,,,,,,,2019,,
+B00603263,Loïc,CHIARI,Homme,Yes,France,,,,,,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,,No,,Equity research analyst,2019,,103675.1792
+B00684622,Victoire,CHOISNARD,Femme,Yes,France,Looking for a job,,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00460819,Mustapha,CHRIFI,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00715158,Alessandro,FESTA,Homme,No,Italie,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Consultant,,2019,59600,
+B00603383,Guillaume,CLOUZARD,Homme,Yes,France,,,,,,,,,,,,,,,,,
+B00603719,Aurore,CREANCIER,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00603739,Solène,CROS,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00698093,Chloé,MAREK,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Useless,,,,,,No,,,,2019,60000,
+B00528266,Zineb,DADOUN,Femme,No,Maroc,,,,,,In professional activity,Morocco,"Consultancy firms, Design offices, Engineering",Satisfied,Useless,,No,,Associate,2019,,52919.5611
+B00587646,Yuhang,PENG,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,No,No,Strategy Consultant,Consultant,2019,60000,67000
+B00616034,Thibault,SALVAT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00694459,Shashwat,TRIPATHI,Homme,No,Inde,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,,,,,,No,,,,2019,60000,
+B00131030,Antoine,WILNER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Not really useful,,,,,,No,,COLLABORATEUR M&A,,2019,60000,
+B00697115,Anna,LÉANDRI,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,CONSULTANT,,2019,60500,
+B00684507,Etienne,DE BAUDINET DE COURCELLES,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Rather useful,No,No,,Directeur d'hôpital,2019,,45000
+B00697046,Jalal,EN-NOURHI,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,Analyste ALM,,2019,61000,
+B00694782,Louis,CHAILLOU,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,,,,,,No,,CONSULTANT EN STRATEGIE,,2019,61500,
+B00528129,Priscille,DE MARLIAVE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00576952,Rui,YIN,Femme,No,Chine,In professional activity,United States of America,Other sector,Satisfied,Not really useful,In professional activity,United States of America,Other sector,Satisfied,Rather useful,No,No,Sales Associate,Biligual text specialist,2019,61982.31076,33803.60002
+B00603881,Jean,DE MAURES DE MALARTIC,Homme,Yes,France,Looking for a job,,,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,No,No,,Data Analsyt,2019,,35000
+B00603900,Remi,DE TORRÈS,Homme,Yes,France,Willingly unemployed,,,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Very useful,No,No,,,2019,,50000
+B00603904,Ophélie,DE VOGÜÉ,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Agri-food industry,Unsatisfied,Not really useful,,No,,Chef de produit Malts Diageo,2019,,41036
+B00603918,Camille,DECHELOTTE,Femme,Yes,France,Looking for a job,,,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Very satisfied,Rather useful,No,No,,Attaché de direction,2019,,46000
+B00451514,Elsa,VANDOORSELAERE,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,No,No,Ingénieur d'affaire - Responsable de BU,Manager Agence Business,2019,63000,80000
+B00571609,Samy,TOURBAH,Homme,Yes,France,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),Property business,Very satisfied,Very useful,No,No,Analyste financier,Analyste financier,2019,63629,67000
+B00528204,Julie,DELCLAUX,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Very satisfied,Very useful,,,,,,No,,,,2019,,
+B00674967,Christel,MEDLEJ,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00693519,Pierre,PREMONT,Homme,Yes,France,In professional activity,France (including overseas collectivities),Manufacturing of rubber and plastic products as well as other non-metal mineral products,Satisfied,Not really useful,,,,,,No,,Responsable développement de Comptes,,2019,64000,
+B00684572,Flore,DESAL,Femme,Yes,France,Willingly unemployed,,,Unsatisfied,Not really useful,,,,,,No,,,,2019,,
+B00739906,Paul Johann,ERLING,Homme,No,Allemagne,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Junior Consultant,,2019,68,
+B00604008,Gabrielle,DEVRED,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Very useful,,No,,Business opérations associate,2019,,42000
+B00204176,Sandrine,ANBAR,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very unsatisfied,Not really useful,,,,,,No,,ingénieur d’affaires,,2019,69400,
+B00684758,Thibault,DI PANE,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Consultant,Consultant,2019,,68000
+B00689456,Nimalan,CHANDRANESAN,Homme,No,Inde,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,,,,,No,,City & Market Intelligence,,2019,70000,
+B00684519,Vincent,DUBOIS,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00634207,Cassandra,ALVAREZ,Femme,Yes,France,In professional activity,Switzerland,Business and trade,Satisfied,Not really useful,,,,,,No,,Data coordinator,,2019,70387.80622,
+B00534299,Kevin,COTTARD,Homme,Yes,France,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Satisfied,Rather useful,,,,,,No,,,,2019,71000,
+B00681529,Christoph Franz,SELBACH-SCHNEIDER,Homme,No,Allemagne,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Junior Consultant,Consultant,2019,72550,70500
+B00698103,Karim,OULADKHOUY,Homme,No,Maroc,In professional activity,United Kingdom,Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,Sales and Trading Analyst,,2019,75000,
+B00604371,David,ERDREICH,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604421,Adrien,FAUCHIER-MAGNAN,Homme,Yes,France,In professional activity,Switzerland,Insurance and financial activities,Satisfied,Not really useful,In professional activity,Switzerland,Insurance and financial activities,Neither satisfied nor dissatisfied,Not really useful,No,No,"Analyste, Financement structurés",,2019,,
+B00695197,Marie-Anne,FAIDY,Femme,Yes,France,In professional activity,United Arab Emirates,"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,United Arab Emirates,"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,No,No,Junior strategy consultant,Consultant,2019,81976.02123,50624.86048
+B00685007,Céline,FAURE,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Not really useful,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Not really useful,No,No,,,2019,,
+B00684802,Kieran,FERRAGU,Homme,Yes,France,Writing a thesis,,,Unsatisfied,Not really useful,,,,,,No,,,,2019,,
+B00604482,Nicolas,FITTANTE,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Rather useful,Studying (except thesis),,,Very satisfied,Not really useful,No,No,,,2019,,
+B00655890,Rohith Reddy,DAGGULA,Homme,No,Inde,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,Analyst,,2019,93000,
+B00528956,Valentine,FOURNEAU,Femme,Yes,France,Looking for a job,,,Satisfied,Not really useful,Looking for a job,,,Satisfied,Not really useful,No,No,,,2019,,
+B00693520,Badr,OUABDELMOUMEN,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00604227,Juliette,GABRION,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00678961,Alice,LOIACONO,Femme,No,Italie,In professional activity,Italy,Insurance and financial activities,Satisfied,Rather useful,,,,,,No,,Quadre,,2019,100000,
+B00684761,Arnaud,GAILLARD,Homme,Yes,France,Studying (except thesis),,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00685917,Paul,DENIEUIL,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,,,2019,102000,
+B00694430,Joe,NASR,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Very useful,,,,,,No,,Banquier d’affaires,,2019,105000,
+B00604170,Etienne,GAUTARD,Homme,Yes,France,In professional activity,France (including overseas collectivities),,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00697574,Leonardo,SIMONINI,Homme,No,Italie,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Not really useful,,,,,,No,,Banquier D'affaire,,2019,108000,
+B00697708,Tristan,MAGUET,Homme,Yes,France,In professional activity,The Netherlands,Insurance and financial activities,Very satisfied,Very useful,In professional activity,The Netherlands,Insurance and financial activities,Very satisfied,Very useful,No,No,Analyst,Analyst,2019,110000,109600
+B00696246,Franck,ABOULKER,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,No,No,Analyste Fusions Acquisitions,,2019,112000,180000
+B00666979,Alexandre,GAUTHIER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Analyste M&A,,2019,153000,
+B00460140,Thibaut,LABERTY,Homme,Yes,France,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Not really useful,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,No,No,Private Equity Analyst,Associate,2019,154955.7769,177468.9001
+B00692554,Ruihua,ZHANG,Homme,No,Chine,In professional activity,China,Human health and social work,Very satisfied,Very useful,,,,,,"Yes, company currently active",,CEO,,2019,206495.8402,
+B00526964,Tal,ABIKER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00749161,Luis,ALFARO CUADRA,Homme,No,Costa Rica,,,,,,,,,,,,,,,2019,,
+B00602511,Racim,AMER MOUSSA,Femme,#N/A,#N/A,,,,,,,,,,,,,,,,,
+B00527200,Antoine,AUBAY,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00602561,Alexandre,AUVINET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00637003,Lu,BAI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00602611,Emmanuelle,BANCAL,Femme,Yes,France,In professional activity,China,"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Rather useful,No,No,Junior Busines Analyst,COORDINATEUR RETAIL,2019,40000,38000
+B00654729,Alexandre,BARBAT,Homme,Yes,France,In professional activity,France (including overseas collectivities),Pharmaceutical industry,Satisfied,Rather useful,,,,,,No,,Chef de Produit Immunologie et Pneumologie,,2019,60000,
+B00693384,Olympio,BARTHELEMY,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Consultant,Consultant,2019,59600,61950
+B00676458,Raphael,BAUDOIN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00527114,Maxence,BÉDUÉ,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00672595,Fousya,BENACHERINE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00694020,Alexandre,BENHAMOU,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00603002,Ghali,BENNIS,Homme,No,Maroc,,,,,,Looking for a job,,,Neither satisfied nor dissatisfied,Rather useful,,No,,,2019,,
+B00527187,Yasmine,BENNOUNA,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Analyste,,2019,61000,
+B00603024,Selma,BERDAI,Femme,No,Maroc,,,,,,In professional activity,Morocco,Agri-food industry,Very satisfied,Very useful,,No,,,2019,,72000
+B00600626,Sixte,BERLIER DE VAUPLANE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00723754,Alexandre,BERRY,Homme,Yes,France,,,,,,,,,,,,,,,,,
+B00676683,Alexandre,BERTHON,Homme,Yes,France,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Not really useful,,,,,,No,,Product manager,,2019,50000,
+B00527488,Clément,BES,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00715155,Costanza,BEZZI,Femme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00646215,Nishant,BHAGYA,Homme,No,Inde,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Rather useful,,,,,,No,,Chef de Projet Junior Ecommerce,,2019,46500,
+B00693524,Prateek,BHARDWAJ,Homme,No,Inde,,,,,,In professional activity,Denmark,Pharmaceutical industry,Satisfied,Useless,,No,,,2019,,70000
+B00527360,Ludovic,BONORON,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,,No,,Senior Analyst M&A,2019,,80000
+B00715156,Andrea,BOTTEGA,Homme,No,Italie,,,,,,,,,,,,,,,2019,,
+B00684864,Cécile,BOTTERO,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00677980,Amina,BOUDJATIT,Femme,No,Algérie,,,,,,,,,,,,,,,2019,,
+B00527429,Gwenaelle,BOULET,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00672879,Laure,BOUWYN,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Unsatisfied,Useless,,,,,,No,,Avocat collaborateur,,2019,91000,
+B00527758,Houssam,BOUZARZAR,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00527767,Quentin,BRAGARD,Homme,Yes,France,Studying (except thesis),,,Very satisfied,Very useful,In professional activity,France (including overseas collectivities),Information and communications technology industry (ICT),Satisfied,Very useful,No,No,,Data Analyst,2019,,56030
+B00695697,Pierre,BRAMAUD DU BOUCHERON,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,,,,,No,,Analyste,,2019,43000,
+B00527801,Edouard,BROCHET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00697468,Guillaume,CABANE,Homme,Yes,France,Writing a thesis,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00697818,Maria,CABRAL,Femme,No,Brésil,,,,,,,,,,,,,,,2019,,
+B00603478,Pierre,CADOUX,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00689873,Anran,CAI,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00715157,Federico,CAMPAGNA,Homme,No,Italie,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,,No,,Consultant,2019,,65000
+B00719726,Margot,CANU,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,,No,,Chef de Projet Data,2019,,44000
+B00674476,Su,CAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00547731,Ron,CHAMMA,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00603597,Charlotte,CHANIOT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00677688,Roni,CHAUVART,Homme,Yes,France,,,,,,In professional activity,Israel,Property business,Neither satisfied nor dissatisfied,Not really useful,,No,,Data Scientist,2019,,56989.76387
+B00695199,Mohamed,CHEKAOUI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00712977,Wenli,CHEN,Femme,No,Chine,In professional activity,Panama,"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,Panama,"Automotive, aerospace, shipbuilding, railway industry",Satisfied,Rather useful,No,No,marketing analyst,marketing analyst,2019,20719.80103,22817.43002
+B00674586,Xinyi,CHEN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00689763,Yue,CHENG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00560822,Utkarsh,CHOPRA,Homme,No,Inde,In professional activity,The Netherlands,,Satisfied,Useless,In professional activity,The Netherlands,Manufacturing of rubber and plastic products as well as other non-metal mineral products,,Rather useful,"Yes, company currently being set up (underway)",No,Project leader,R&D Project lead,2019,100000,101000
+B00633676,Charlotte,CLEMENT-COTTUZ,Femme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Useless,,,,,,No,,Coach Agile & Sales,,2019,55000,
+B00678541,Nicolas,CORDAHI,Homme,Yes,France,In professional activity,France (including overseas collectivities),Chemical industry,Satisfied,Useless,,,,,,No,,Demand planner,,2019,42900,
+B00528214,Guillaume,COUGARD,Homme,Yes,France,,,,,,In professional activity,Switzerland,Property business,Neither satisfied nor dissatisfied,Not really useful,,No,,Head of Product,2019,,92567.21009
+B00603804,Nicolas,D'AUBERT,Homme,Yes,France,,,,,,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Satisfied,Rather useful,,No,,,2019,,
+B00402156,Lois,D'IRIBARNE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Textile manufacturing, clothing industry, leather and shoe industry",Satisfied,Rather useful,,,,,,No,,HR BUSINESS PARTNER,,2019,42000,
+B00603763,Joana,DA SILVA PINA,Femme,Yes,France,,,,,,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,,No,,,2019,,
+B00692523,Abhinav,DAGA,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00603826,Henri,DE BEAUMONT D'AUTICHAMP,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,No,,Associate,2019,,60500
+B00699327,Emmanuel,DE DURFORT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00271123,Marie,DE LASSUS,Femme,Yes,France,Looking for a job,,,Satisfied,Useless,,,,,,No,,,,2019,,
+B00603883,Cyril,DE MONTAIGNE DE PONCINS,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00677386,Margaux,DEGUERRE,Femme,Yes,France,,,,,,In professional activity,United Kingdom,Agri-food industry,Very satisfied,Very useful,,No,,ACTIVATION & LICENSING MANAGER,2019,,49162.10109
+B00528497,Maëlle,DERUAZ,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00528334,Charles,DIEULEFET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00528347,Martin,DIXNEUF,Homme,Yes,France,In professional activity,Mexico,"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,No,No,Associate,Associate,2019,32000,59500
+B00528359,Quentin,DOË DE MAINDREVILLE,Homme,Yes,France,In professional activity,France (including overseas collectivities),,Satisfied,Very useful,,,,,,No,,,,2019,,
+B00322056,Jeimila,DONTY,Femme,No,Madagascar,,,,,,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Not really useful,,No,,Responsable Fidélisation Abonnés,2019,,51000
+B00603682,Baptiste,DUMOULIN,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,,,,,No,,Associate,,2019,,
+B00604318,Meryem,EL HOUSSEINI HILAL,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00675854,Ghita,EL KASRI,Homme,No,Maroc,,,,,,,,,,,,,,,,,
+B00604347,Lina,ELAZHARI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00695980,Marie,ERMENEUX,Homme,Yes,France,,,,,,,,,,,,,,,,,
+B00604398,Houssam,FADIL,Homme,No,Maroc,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Unsatisfied,Useless,,No,,,2019,,50000
+B00604401,Agathe,FAGOT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00692438,Yini,FANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00659619,Marc,FAUCON,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604464,Paolo,FERRO,Homme,No,Belgique,,,,,,,,,,,,,,,2019,,
+B00604483,Corentin,FLACHER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00692572,Martin,FOURDRIGNIER,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Administration of the State, territorial authorities, hospitals",Very satisfied,Useless,"Yes, company currently active","Yes, company currently being set up (underway)",Analyste interconnection et réglementation européenne,Chargé de missions interconnexions et réseaux européens,2019,48000,47667
+B00570484,Marc,FOURNIER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00724663,Wanting,GAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00604151,Clara,GARNIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00483279,Alexandre,Genneret,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Very satisfied,Not really useful,,No,,Investment Analyst,2019,,58000
+B00604541,Alice,GERVAIS,Femme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Neither satisfied nor dissatisfied,Not really useful,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Neither satisfied nor dissatisfied,Useless,No,No,,,2019,,
+B00604558,Jean,GILARDO,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00528923,Louis-Marie,GIUDICENTI,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00685004,Agnès,GOASDOUÉ,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Publishing, audiovisual and broadcasting",Satisfied,Not really useful,,No,,Cheffe de projet marketing,2019,,40000
+B00660072,Zheng,GONG,Homme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00678534,Thibault,GONNARD,Homme,Yes,France,In professional activity,France (including overseas collectivities),Business and trade,Very satisfied,Rather useful,,,,,,No,,,,2019,46000,
+B00713883,Sai Charan,GOTETI,Homme,No,Inde,,,,,,In professional activity,United Kingdom,Other sector,Satisfied,Not really useful,,No,,Investment Analyst,2019,,111478.6873
+B00678081,Yannis,GOUMIDI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00677521,Olivier,GOURGUE,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00691511,Pierre-Olivier,GRAFF,Homme,Yes,France,Looking for a job,,,Satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Rather useful,No,No,,Oncology client service consultant,2019,,55500
+B00679128,Antoine,GRENIER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604667,Alix,GROSSE,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604670,Benjamin,GRU,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Neither satisfied nor dissatisfied,Not really useful,,No,,ACCOUNT MANAGER,2019,,54002
+B00587778,Cici,GUAN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00477025,Anne,GUEUGNOT,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604704,Laurie,GUIBERT,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,,No,,HEAD OF PERFORMANCE,2019,,56000
+B00684505,Andres-Gabriel,HAFFNER,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00677602,Malik,HAMANI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00659844,Abdelkrim,HAMMOUTENE,Homme,Yes,France,In professional activity,United Arab Emirates,Insurance and financial activities,Satisfied,Rather useful,,,,,,No,,Banquier,,2019,140000,
+B00753531,Ahmed,HAMOUR,Homme,No,Canada,,,,,,,,,,,,,,,2019,,
+B00461099,Emmanuel,HARDER,Homme,Yes,France,Looking for a job,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00677643,Nicolas,HARTIG,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00529154,Mehdi,HASSOUNI,Homme,No,Maroc,In professional activity,Germany,IT operations and information services (ICT Services),Very satisfied,Very useful,,,,,,No,,Finance Manager Charter,,2019,48000,
+B00604828,Loïs,HENRY,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00673480,Yawen,HUANG,Femme,No,Chine,In professional activity,France (including overseas collectivities),"Automotive, aerospace, shipbuilding, railway industry",Neither satisfied nor dissatisfied,Rather useful,In professional activity,France (including overseas collectivities),"Automotive, aerospace, shipbuilding, railway industry",Unsatisfied,Not really useful,No,No,Finance Analyst,Finance analyst,2019,45000,45000
+B00587891,Jizhen,HUANG,Femme,No,Chine,,,,,,Looking for a job,,,Satisfied,Not really useful,,No,,,2019,,
+B00718980,Junyan,HUANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00604889,Maxime,HUET,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604894,Raphaëlle,HUMBERT,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,,No,,Senior Marketing Analyst,2019,,47500
+B00694033,Anaïs,IMBERT DE BALORRE,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Useless,,,,,,No,,Avocat,,2019,66000,
+B00604946,Hadrien,JACQUOT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00721976,Swetha,JAYAKUMAR,Femme,No,Inde,,,,,,In professional activity,Luxembourg,Other sector,Neither satisfied nor dissatisfied,Not really useful,,No,,Data Engineer,2019,,52000
+B00695327,Raphaël,JEAN-BART,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00674432,Keyue,JIN,Homme,No,Chine,,,,,,,,,,,,,,,,,
+B00692257,Clément,JOSSET,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very unsatisfied,,In professional activity,France (including overseas collectivities),Scientific research and development,Unsatisfied,Not really useful,No,"Yes, company currently active",,,2019,60000,
+B00529403,Quentin,JUREDIEU,Homme,Yes,France,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Not really useful,,,,,,No,,,,2019,,
+B00624480,Yacouba,KEBE,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Not really useful,,No,,Auditeur financier et consultant FAAS,2019,,45000
+B00605155,Margaux,KENNEDY,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605159,Vincent,KERMAREC,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Rather useful,,"Yes, company currently active",,Responsable marketing et acquisition digitale,2019,,41500
+B00701862,Pramil,KHARE,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00695116,Imen,KHENNOUFA,Femme,Yes,France,Looking for a job,,,Unsatisfied,Not really useful,,,,,,No,,,,2019,,
+B00684765,Alexandre,KOVARSKY,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,United Kingdom,Insurance and financial activities,Satisfied,Rather useful,No,No,Analyste,,2019,150000,156070.1622
+B00715160,Sophie Clementine,KROHN,Femme,No,Allemagne,,,,,,,,,,,,,,,2019,,
+B00672797,Chloé,LAGANIER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00693257,Makram,LAHOUD,Homme,No,Liban,,,,,,In professional activity,France (including overseas collectivities),,,,,No,,,2019,,
+B00605262,Kenza,LAHRECH,Femme,No,Maroc,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,No,No,Consultante Junior,Consultante,2019,52000,59000
+B00471089,Firas,LAJILI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00529583,Brune,LANGE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605301,Louise,LANGER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605344,Louis,LAVEDAN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00604962,Théodore,LE GARGEAN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00220845,Paul,LE GOFF,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00698294,Nelson Jérôme Milivoj,LE MASSON,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Associate,Associate,2019,62325,67000
+B00751247,Kian,LEE,Femme,No,Corée (République de),Writing a thesis,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00605108,Marine,LEJEUNE,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00605021,Nicolas,LÉONARD,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00715161,Alberto,LEONCINI BARTOLI,Homme,No,Italie,,,,,,,,,,,,,,,,,
+B00674885,Yann,LEROUX,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Agriculture, silviculture and fishing",,Not really useful,,No,,International organization and external growth manager,2019,,96000
+B00605049,Baptiste,LESTRADE,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Not really useful,Looking for a job,,,Satisfied,Not really useful,No,No,Finance & Administration Project Manager,,2019,60000,
+B00605065,Maxime,LEVY-PROVENÇAL,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00676908,Yaxin,LI,Femme,No,Chine,,,,,,In professional activity,France (including overseas collectivities),"Arts, entertainment industry and recreational activities",Satisfied,Rather useful,,No,,,2019,,45000
+B00714324,Bo,LI,Homme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00605442,Nathan,LILTI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00689844,Veronica Hsing-yu,LIN,Femme,No,TAÏWAN,,,,,,,,,,,,,,,2019,,
+B00690304,Lan,LIU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00698027,Weian,LIU,Femme,No,Singapour,,,,,,In professional activity,Singapore,Insurance and financial activities,Satisfied,Rather useful,,No,,Credit Risk Analyst,2019,,37123.84456
+B00661766,Jing,LIU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00713088,Jiaxi,LIU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00715446,Hengli,LIU,Homme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00674703,Xiaolin,LUO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00716643,Wenjun,LUO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00529927,Christian,LUPI,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00529939,Elias,MAAOUIA,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00410105,Sofiane,MABOUTH,Homme,Yes,France,,,,,,"Taking part in a French International Internship Programme (V.I.A., V.I.E., etc.)",,,Unsatisfied,Useless,,No,,,2019,,
+B00675127,Julien,MAMALIAN,Homme,Yes,France,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Not really useful,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Satisfied,Useless,"Yes, company currently active","Yes, company currently active",Gérant et développeur web,Gérant,2019,50000,166000
+B00715162,Laura,MANNA,Femme,No,Italie,In professional activity,Italy,"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,In professional activity,Italy,"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,No,No,Associate Consultant,,2019,46200,60200
+B00693489,Ali,MAROUANI,Homme,No,Maroc,Looking for a job,,,Very satisfied,Not really useful,,,,,,No,,,,2019,,
+B00680246,Alia,MARRAKCHI,Femme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00317970,Capucine,MARTEAU,Femme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),IT operations and information services (ICT Services),Very satisfied,Very useful,,No,,Business Intelligence Engineer,2019,,52000
+B00593233,Alexandre,MESE,Homme,Yes,France,In professional activity,France (including overseas collectivities),Insurance and financial activities,Satisfied,Rather useful,,,,,,No,,ANALYST - LEVERAGED FINANCE,,2019,90000,
+B00684538,Estelle,MINORET,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00695858,Giovanna,MONCADA PATERNO CASTELLO,Femme,No,Espagne,,,,,,,,,,,,,,,2019,,
+B00696114,Andres,MORENO-TORRES TABOADA,Homme,No,Espagne,,,,,,,,,,,,,,,2019,,
+B00605411,Achot,MOURADIAN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00674720,Ishaan,NARULA,Homme,No,Inde,Looking for a job,,,Satisfied,Rather useful,,,,,,No,,,,2019,,
+B00690220,Lorenz,ÖDER,Homme,No,Allemagne,,,,,,,,,,,,,,,2019,,
+B00687778,Xintong,OUYANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00411767,Lucas,PALLIEZ,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Unsatisfied,Rather useful,,,,,,No,,Conseiller,,2019,43000,
+B00530678,Sophie,PEYRAT,Femme,Yes,France,In professional activity,United Kingdom,,Very satisfied,Rather useful,In professional activity,United Kingdom,IT operations and information services (ICT Services),Very satisfied,Rather useful,No,No,Customer Implementation manager,Project Manager,2019,41395.56539,50165.40928
+B00718885,Sashi,POOLLA,Homme,No,Inde,,,,,,,,,,,,,,,2019,,
+B00530838,Yassine,QOSSAIM,Homme,No,Maroc,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Neither satisfied nor dissatisfied,Rather useful,,No,,Consultant confirmé,2019,,57000
+B00606306,Thibaut,RABAYROL,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00606365,Wen-Jinn,RAZON,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00531006,Alexis,RENAUD,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Very useful,,No,,Banquier d'affaires,2019,,200000
+B00634222,Jules,RIMBAUD,Homme,Yes,France,,,,,,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Satisfied,Not really useful,,No,,,2019,,46000
+B00675898,Simon,ROCHWERG,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00324080,Anissa,ROUABEHI,Femme,Yes,France,Looking for a job,,,Satisfied,Not really useful,,,,,,No,,,,2019,,
+B00606543,Aymeric,ROZÉ,Homme,Yes,France,In professional activity,France (including overseas collectivities),Agri-food industry,Satisfied,Rather useful,Looking for a job,,,Unsatisfied,Not really useful,"Yes, company currently being set up (underway)",No,,,2019,,
+B00575547,Maria,RYBAKOVA,Femme,No,Russie (fédération de),,,,,,,,,,,,,,,2019,,
+B00606564,Anas,SABIHI,Homme,No,Maroc,,,,,,,,,,,,,,,2019,,
+B00594512,Malik,SALEM,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00676568,Huazuo,SHAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00689367,Hong,SHI,Homme,No,Chine,Looking for a job,,,Satisfied,Very useful,,,,,,No,,,,2019,,
+B00606266,Thomas,SIRGANT,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00747796,Mareike,STEIBL,Femme,No,Allemagne,,,,,,,,,,,,,,,2019,,
+B00530877,Benjamin,TAINTURIER,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00503832,Yixiao,TAN,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00668110,Ting,TANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00677574,Nicolas,THOMAS,Homme,Yes,France,In professional activity,France (including overseas collectivities),"Legal, accounting, management, architectural, inspection and technical analysis activities",Satisfied,Not really useful,,,,,,No,,Collaborateur,,2019,82000,
+B00677511,Gaurav,UNNI,Homme,No,Inde,,,,,,In professional activity,Belgium,Chemical industry,Satisfied,Not really useful,,No,,,2019,,72000
+B00718625,Viktor,UZLOV,Homme,No,Russie (fédération de),Looking for a job,,,Unsatisfied,Not really useful,Looking for a job,,,Neither satisfied nor dissatisfied,Not really useful,No,No,,,2019,,
+B00606722,Clémence,VAN DER SCHUEREN,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00684596,Mathieu,VERTADIER,Femme,Yes,France,,,,,,,,,,,,,,,,,
+B00676824,Ying,WANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00611586,Florian Alexander,WINKLER,Homme,No,Allemagne,,,,,,In professional activity,Germany,"Consultancy firms, Design offices, Engineering",Very satisfied,Not really useful,,No,,Senior Associate,2019,,131750
+B00674221,?-,WUJISIGULENG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00673896,Meiling,XI,Femme,No,Chine,In professional activity,France (including overseas collectivities),Other sector,Satisfied,Very useful,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,No,No,Marketing cordinateur,,2019,41700,60
+B00675543,Yunxiu,XU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00676819,Xiaoxuan,XUE,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00531569,Audrey,YAKER,Femme,Yes,France,,,,,,,,,,,,,,,2019,,
+B00652699,Yi Zhao,YANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00677021,Yue,YANG,Femme,No,Chine,,,,,,In professional activity,France (including overseas collectivities),Business and trade,Satisfied,Rather useful,,No,,,2019,,49000
+B00674669,Lin,YAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00693632,Siyang,YU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00660073,Yingying,ZHANG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00659228,Yuyuan,ZHAO,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00658379,Kangjing,ZHENG,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00644984,Yuli,ZHONG,Homme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00653758,Xuan,ZHOU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00720147,Yingzhao,ZHU,Femme,No,Chine,,,,,,,,,,,,,,,2019,,
+B00607164,Sophia,ZHU,Femme,Yes,France,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,In professional activity,France (including overseas collectivities),"Consultancy firms, Design offices, Engineering",Very satisfied,Rather useful,No,No,Consultant,,2019,50000,
+B00531635,Lucas,ZIMMERMANN,Homme,Yes,France,,,,,,,,,,,,,,,2019,,
