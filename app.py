@@ -79,6 +79,7 @@ st.header('Weights for Computing the Score')
 weights = {}
 
 col1, col2, col3 = st.columns(3)
+#specify weight for each factor
 weights["is_woman"] = col1.number_input("% of women", min_value=None, max_value=None, value=5, step=1)
 weights["is_int"] = col2.number_input("% of international ", min_value=None, max_value=None, value=5, step=1)
 weights["career_jump"] = col3.number_input("career jump", min_value=None, max_value=None, value=5, step=1)
@@ -90,24 +91,48 @@ weights["salary_increase_perc"] = col2.number_input("salary increase in percenta
 weights["salary_increase_abs"] = col3.number_input("salary increase in absolute value", min_value=None, max_value=None, value=5, step=1)
 
 
-
 st.header('Handling of missing values')
+
 c3,c4 = st.columns((1,4))
+#specificy method to handle missing values
 na_method = c3.selectbox("Method", ["ignore", "general", "group"], index=0)
 c4.markdown("**Explanation**")
 c4.markdown("ignore = do not consider the null values in the averages")
 c4.markdown("general = substitute every missing value with the general average of that variable")
 c4.markdown("group = sustitute missing values with the average of the subgroup")
 
-status = st.text('Preprocesing the data...')
+#___________________________________________________________________________________________________________________
+st.header('Handling of outliers')
 
+#select quantiles for salary and for salary increase
+st.markdown("Specify **quantile** for detection of outliers (1 means keeping all observations")
+quantile = st.number_input(label = "Salary", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)
+quantile_increase = st.number_input(label = "Salary Increase", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)
+
+#method to deal with outliers
+st.markdown("**What do you want to do with outliers?**")
+st.markdown("eliminate = eliminate the row")
+st.markdown("substitute = substitute the value in that column with null value (keep the values for other columns")
+outliers = st.selectbox("Method", ["eliminate", "substitute"], index=1)
+
+#_______________________________________________________________________________________________________________________
+st.header("Analysis")
+
+#start the preprocessing of the data
+status = st.text('Preprocesing the data...')
 
 #preprocess the file
 df_prep = preprocessing.preprocessing_df(data, method_range,value_binary)
-
 status.text("Computing all the factors... ")
+
 #compute all the single variables
-df_factors = factors.factors_df(df_prep, grouping_criteria=["Admission", "Admission AST"], years_before = years, qualtrics = qualtrics_data, recommendations = use_recommendations)
+df_factors = factors.factors_df(df_prep, 
+                                grouping_criteria=["Admission", "Admission AST"],
+                                years_before = years, qualtrics = qualtrics_data,
+                                recommendations = use_recommendations,
+                                q = quantile,
+                                q_increase = quantile_increase,
+                                outliers = outliers)
 
 #add info about the chaires if available
 try:
@@ -116,21 +141,21 @@ try:
     df_factors = pd.merge(df_factors, chaires, how = "left", left_on= "BID", right_on="Ecole_BID")
     df_factors.drop("Ecole_BID", axis = 1)
     groups = ["is_woman", "is_int", "Admission", "Admission AST", "Chaires"]
-
 except:
     groups = ["is_woman", "is_int", "Admission", "Admission AST"]
-
 status.text("Done")
 
-st.header("Analysis")
+#select groups to visualize and formatting options
 group = st.selectbox("Grouping to visualize", groups, index=0)
 decimals = st.number_input("Decimal positions to visualize?", min_value=0, max_value=None, value=2, step=1)
 weighted = st.checkbox("Visualize weighted partial scores")
 scores = factors.score(df_factors, group, weights, na_method,weighted)
 scores = utils.round_all(scores,decimals)
 
-st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=['group']))
+#visualize the table for one specific group, highlighting the first column
+st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=[f"Group: {group}"]))
 
+#dowload of the complete excel table
 df_xlsx = to_excel(df_factors)
 st.download_button(label=f'📥 Download Analysis Year {year}',
                                 data=df_xlsx ,

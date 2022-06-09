@@ -240,7 +240,7 @@ def career_jump(row):
     return jump
 
 
-def factors_df(df, grouping_criteria=[], years_before = 0, qualtrics = True, recommendations = True):
+def factors_df(df, grouping_criteria=[], years_before = 0, qualtrics = True, recommendations = True, q = 0.95, q_increase = 0.95, outliers = "eliminate"):
     
     grouping_criteria = grouping_criteria if type(grouping_criteria)==list else [grouping_criteria]
     
@@ -262,9 +262,26 @@ def factors_df(df, grouping_criteria=[], years_before = 0, qualtrics = True, rec
     #add columns for grouping criteria
     for i in grouping_criteria:
         new_df[i] = df[i]
-    
+
+    #compute quantiles salary
+    q_low = new_df["salary"].quantile(1-q)
+    q_hi  = new_df["salary"].quantile(q)
+
+    #compute quantiles salary increase
+    q_high = new_df["salary_increase_abs"].quantile(q_increase)
+
+    if outliers=="eliminate":
+        #eliminate salary outliers
+        new_df = new_df[(new_df["salary"] < q_hi) & (new_df["salary"] > q_low)]
+        #eliminate salary increase outliers
+        new_df=new_df[new_df["salary_increase_abs"]<q_high]
+    else:
+        new_df.loc[(new_df["salary"] < q_hi) & (new_df["salary"] > q_low), "salary"] = np.nan
+        new_df.loc[new_df["salary_increase_abs"]<q_high, "salary_increase_abs"] = np.nan
+
     scaler = MinMaxScaler()
-    numericals=['salary_increase_abs', 'salary_increase_perc','salary','satisfaction','career_service']
+    #numericals=['salary_increase_abs','salary_increase_perc','salary','satisfaction','career_service']
+    numericals=['salary_increase_abs','salary_increase_perc','salary','satisfaction','career_service']
     new_df[numericals] = scaler.fit_transform(new_df[numericals])
     
     return new_df
@@ -283,8 +300,8 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
     '''
     na_method = ["ignore", "general", "group"]
     '''
-
-    col_names = ["group","is_woman", "is_int", "career_jump","satisfaction","career_service","mobility","salary","salary_increase_perc", "salary_increase_abs","total_score","count", "missing_salary_count"]
+    col = f"Group: {group}"
+    col_names = [col,"is_woman", "is_int", "career_jump","satisfaction","career_service","mobility","salary","salary_increase_perc", "salary_increase_abs","total_score","count", "missing_salary_count"]
     
     #this is needed to check if we need to add the extra row for everyone but ASC
     admissions = group == "Admission" 
@@ -315,7 +332,7 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
     else:
         groups.extend(["Other","General"])
 
-    result["group"] = groups
+    result[col] = groups
 
     for i in groups:
         if i == "General":
@@ -351,29 +368,29 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
                 print(f"Value not replaced for group {i} because not enough values")
 
         if weighted:      
-            result.loc[result.group == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))*weights["is_woman"]
-            result.loc[result.group == i, "is_int"] =  temp["is_int"].mean()*weights["is_int"] 
-            result.loc[result.group == i, "career_jump"] = temp["career_jump"].mean()*weights["career_jump"]
-            result.loc[result.group == i, "satisfaction"] = temp["satisfaction"].mean()*weights["satisfaction"]
-            result.loc[result.group == i, "career_service"] = temp["career_service"].mean()*weights["career_service"]
-            result.loc[result.group == i, "mobility"] = temp["mobility"].mean()*weights["mobility"]
-            result.loc[result.group == i, "salary"] = temp["salary"].mean()*weights["salary"]
-            result.loc[result.group == i, "salary_increase_perc"] =  temp["salary_increase_perc"].mean()*weights["salary_increase_perc"]
-            result.loc[result.group == i, "salary_increase_abs"] =  temp["salary_increase_abs"].mean()*weights["salary_increase_abs"]
-            result.loc[result.group == i, "count"] = len(temp)
-            result.loc[result.group == i, "missing_salary_count"] = len(temp[temp.salary.isna()])
+            result.loc[result[col] == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))*weights["is_woman"]
+            result.loc[result[col] == i, "is_int"] =  temp["is_int"].mean()*weights["is_int"] 
+            result.loc[result[col] == i, "career_jump"] = temp["career_jump"].mean()*weights["career_jump"]
+            result.loc[result[col] == i, "satisfaction"] = temp["satisfaction"].mean()*weights["satisfaction"]
+            result.loc[result[col] == i, "career_service"] = temp["career_service"].mean()*weights["career_service"]
+            result.loc[result[col] == i, "mobility"] = temp["mobility"].mean()*weights["mobility"]
+            result.loc[result[col] == i, "salary"] = temp["salary"].mean()*weights["salary"]
+            result.loc[result[col] == i, "salary_increase_perc"] =  temp["salary_increase_perc"].mean()*weights["salary_increase_perc"]
+            result.loc[result[col] == i, "salary_increase_abs"] =  temp["salary_increase_abs"].mean()*weights["salary_increase_abs"]
+            result.loc[result[col] == i, "count"] = len(temp)
+            result.loc[result[col] == i, "missing_salary_count"] = len(temp[temp.salary.isna()])
         else:
-            result.loc[result.group == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))
-            result.loc[result.group == i, "is_int"] =  temp["is_int"].mean()
-            result.loc[result.group == i, "career_jump"] = temp["career_jump"].mean()
-            result.loc[result.group == i, "satisfaction"] = temp["satisfaction"].mean()
-            result.loc[result.group == i, "career_service"] = temp["career_service"].mean()
-            result.loc[result.group == i, "mobility"] = temp["mobility"].mean()
-            result.loc[result.group == i, "salary"] = temp["salary"].mean()
-            result.loc[result.group == i, "salary_increase_perc"] =  temp["salary_increase_perc"].mean()
-            result.loc[result.group == i, "salary_increase_abs"] =  temp["salary_increase_abs"].mean()
-            result.loc[result.group == i, "count"] = len(temp)
-            result.loc[result.group == i, "missing_salary_count"] = len(temp[temp.salary.isna()])
+            result.loc[result[col] == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))
+            result.loc[result[col] == i, "is_int"] =  temp["is_int"].mean()
+            result.loc[result[col] == i, "career_jump"] = temp["career_jump"].mean()
+            result.loc[result[col] == i, "satisfaction"] = temp["satisfaction"].mean()
+            result.loc[result[col] == i, "career_service"] = temp["career_service"].mean()
+            result.loc[result[col] == i, "mobility"] = temp["mobility"].mean()
+            result.loc[result[col] == i, "salary"] = temp["salary"].mean()
+            result.loc[result[col] == i, "salary_increase_perc"] =  temp["salary_increase_perc"].mean()
+            result.loc[result[col] == i, "salary_increase_abs"] =  temp["salary_increase_abs"].mean()
+            result.loc[result[col] == i, "count"] = len(temp)
+            result.loc[result[col] == i, "missing_salary_count"] = len(temp[temp.salary.isna()])
 
     if weighted:   
         result["total_score"] = result.iloc[:,1:-2].sum(axis=1)
