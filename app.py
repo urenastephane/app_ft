@@ -4,6 +4,8 @@ import utils
 import preprocessing
 import factors
 from copy import deepcopy
+from io import BytesIO
+from pyxlsb import open_workbook as open_xlsb
 
 import streamlit as st
 
@@ -31,6 +33,18 @@ def load_data(year):
     return df
 
 
+def to_excel(df_factors):
+    output = BytesIO()
+    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+        df_factors.to_excel(writer, sheet_name = "factors", index = False)
+        for group in groups:
+            temp = factors.score(df_factors, group, weights, na_method, weighted=False)
+            temp = utils.round_all(temp,decimals)
+            temp.to_excel(writer, sheet_name=group, index=False)
+    processed_data = output.getvalue()
+    return processed_data
+
+
 
 st.title('FT Simulations')
 year = st.number_input("Year of analysis", min_value=2018, max_value=2020, step=1)
@@ -46,33 +60,44 @@ qualtrics_data = st.checkbox(f"Check if Qualtrics questionnaire available for th
 
 
 st.header('Parameters for Preprocessing')
-method_range = st.selectbox("How do you wish to substitute ranges of salaries?", ["mean", "min", "max"], index=0)
-use_recommendations= st.checkbox("Do you wish to use also recommendations to compute satisfaction")
+
+c1, c2 = st.columns(2)
+method_range = c1.selectbox("How do you wish to substitute ranges of salaries?", ["mean", "min", "max"], index=0)
+use_recommendations= c2.checkbox("Do you wish to use also recommendations to compute satisfaction")
 
 if use_recommendations:
-    value_binary = st.number_input("Which value do you want to assign to a positive recommendation?", min_value=0, max_value=2, step=1)
+    value_binary = c2.number_input("Which value do you want to assign to a positive recommendation?", min_value=0, max_value=2, step=1)
 else:
     value_binary=2 #not used in reality, but we need an input for the preprocessing function
 
-years = st.number_input("How many years back do you want to go to find a valid salary?", min_value=0, max_value=2, step=1)
+years = c1.number_input("How many years back do you want to go to find a valid salary?", min_value=0, max_value=2, step=1)
 
 if qualtrics_data == False and years == 0:
     years = 1
 
-st.header('Parameters for Computing the Score')
+st.header('Weights for Computing the Score')
 weights = {}
-weights["is_woman"] = st.number_input("Weigth for % of women", min_value=None, max_value=None, value=5, step=1)
-weights["is_int"] = st.number_input("Weigth for % of international ", min_value=None, max_value=None, value=5, step=1)
-weights["career_jump"] = st.number_input("Weigth for career jump", min_value=None, max_value=None, value=5, step=1)
-weights["satisfaction"] = st.number_input("Weigth for satisfaction", min_value=None, max_value=None, value=5, step=1)
-weights["career_service"] = st.number_input("Weigth for career service satisfaction", min_value=None, max_value=None, value=5, step=1)
-weights["mobility"] = st.number_input("Weigth for mobility", min_value=None, max_value=None, value=8, step=1)
-weights["salary"] = st.number_input("Weigth for salary", min_value=None, max_value=None, value=20, step=1)
-weights["salary_increase_perc"] = st.number_input("Weigth for salary increase in percentage", min_value=None, max_value=None, value=5, step=1)
-weights["salary_increase_abs"] = st.number_input("Weigth for salary increase in absolute value", min_value=None, max_value=None, value=5, step=1)
 
-na_method = st.selectbox("How would you like to substitute null values", ["ignore", "general", "group"], index=0)
-st.text("Explanation: \n ignore = do not consider the null values in the averages \n general = substitute every missing value with the general average of that variable \n group = sustitute missing values with the average of the subgroup")
+col1, col2, col3 = st.columns(3)
+weights["is_woman"] = col1.number_input("% of women", min_value=None, max_value=None, value=5, step=1)
+weights["is_int"] = col2.number_input("% of international ", min_value=None, max_value=None, value=5, step=1)
+weights["career_jump"] = col3.number_input("career jump", min_value=None, max_value=None, value=5, step=1)
+weights["satisfaction"] = col1.number_input("satisfaction", min_value=None, max_value=None, value=5, step=1)
+weights["career_service"] = col2.number_input("career service satisfaction", min_value=None, max_value=None, value=5, step=1)
+weights["mobility"] = col3.number_input("mobility", min_value=None, max_value=None, value=8, step=1)
+weights["salary"] = col1.number_input("salary", min_value=None, max_value=None, value=20, step=1)
+weights["salary_increase_perc"] = col2.number_input("salary increase in percentage", min_value=None, max_value=None, value=5, step=1)
+weights["salary_increase_abs"] = col3.number_input("salary increase in absolute value", min_value=None, max_value=None, value=5, step=1)
+
+
+
+st.header('Handling of missing values')
+c3,c4 = st.columns((1,4))
+na_method = c3.selectbox("Method", ["ignore", "general", "group"], index=0)
+c4.markdown("**Explanation**")
+c4.markdown("ignore = do not consider the null values in the averages")
+c4.markdown("general = substitute every missing value with the general average of that variable")
+c4.markdown("group = sustitute missing values with the average of the subgroup")
 
 status = st.text('Preprocesing the data...')
 
@@ -103,6 +128,13 @@ decimals = st.number_input("Decimal positions to visualize?", min_value=0, max_v
 weighted = st.checkbox("Visualize weighted partial scores")
 scores = factors.score(df_factors, group, weights, na_method,weighted)
 scores = utils.round_all(scores,decimals)
-st.dataframe(scores.astype(str))
+
+st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=['group']))
+
+df_xlsx = to_excel(df_factors)
+st.download_button(label=f'📥 Download Analysis Year {year}',
+                                data=df_xlsx ,
+                                file_name= f'analysis{year}.xlsx')
+
 
 
