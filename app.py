@@ -153,7 +153,7 @@ scores = factors.score(df_factors, group, weights, na_method,weighted)
 scores = utils.round_all(scores,decimals)
 
 #visualize the table for one specific group, highlighting the first column
-st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=[f"Group: {group}"]))
+st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=[f"total_score"]))
 
 #dowload of the complete excel table
 df_xlsx = to_excel(df_factors)

@@ -146,5 +146,5 @@ def import_qualtrics(path):
 
 def round_all(df, decimals):
     for i in df.columns:
-        df[i] = df[i].apply(lambda x: round(x,decimals) if type(x)==float and x==x else x)
+        df[i] = df[i].apply(lambda x: round(x,decimals) if isinstance(x,(int, float)) and x==x else x)
     return df
