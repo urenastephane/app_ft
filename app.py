@@ -66,7 +66,7 @@ method_range = c1.selectbox("How do you wish to substitute ranges of salaries?",
 use_recommendations= c2.checkbox("Do you wish to use also recommendations to compute satisfaction")
 
 if use_recommendations:
-    value_binary = c2.number_input("Which value do you want to assign to a positive recommendation?", min_value=0, max_value=2, step=1)
+    value_binary = c2.number_input("Which value do you want to assign to a positive recommendation?", min_value=1, max_value=2, step=1)
 else:
     value_binary=2 #not used in reality, but we need an input for the preprocessing function
 
