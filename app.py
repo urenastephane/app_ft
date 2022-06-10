@@ -35,7 +35,7 @@ def load_data(year):
 
 def to_excel(df_factors):
     output = BytesIO()
-    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+    with pd.ExcelWriter(output) as writer:
         df_factors.to_excel(writer, sheet_name = "factors", index = False)
         for group in groups:
             temp = factors.score(df_factors, group, weights, na_method, weighted=False)
@@ -105,14 +105,15 @@ c4.markdown("group = sustitute missing values with the average of the subgroup")
 st.header('Handling of outliers')
 
 #select quantiles for salary and for salary increase
-st.markdown("Specify **quantile** for detection of outliers (1 means keeping all observations")
-quantile = st.number_input(label = "Salary", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)
-quantile_increase = st.number_input(label = "Salary Increase", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)
+st.markdown("Specify the percentage of data to exclude(0 means keeping all observations)")
+st.markdown("If 5% is specified is going to eliminate anything lower than 0.025 quantile and higher than the 0.975 percentile")
+quantile =1-st.number_input(label = "Salary", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)/2
+quantile_increase = 1-st.number_input(label = "Salary Increase", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)/2
 
 #method to deal with outliers
 st.markdown("**What do you want to do with outliers?**")
 st.markdown("eliminate = eliminate the row")
-st.markdown("substitute = substitute the value in that column with null value (keep the values for other columns")
+st.markdown("substitute = substitute the value in that column with null value (keep the values for other columns)")
 outliers = st.selectbox("Method", ["eliminate", "substitute"], index=1)
 
 #_______________________________________________________________________________________________________________________
@@ -146,7 +147,12 @@ except:
 status.text("Done")
 
 #select groups to visualize and formatting options
-group = st.selectbox("Grouping to visualize", groups, index=0)
+formatting_group = {"is_woman":"by gender",
+                    "is_int": "by origin",
+                    "Admission": "by admission",
+                    "Admission AST": "by admission (AST tracks all combined)"}
+
+group = st.selectbox("Grouping to visualize", groups, index=0,format_func=lambda x: formatting_group[x])
 decimals = st.number_input("Decimal positions to visualize?", min_value=0, max_value=None, value=2, step=1)
 weighted = st.checkbox("Visualize weighted partial scores")
 scores = factors.score(df_factors, group, weights, na_method,weighted)
