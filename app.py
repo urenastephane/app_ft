@@ -5,7 +5,7 @@ import preprocessing
 import factors
 from copy import deepcopy
 from io import BytesIO
-from pyxlsb import open_workbook as open_xlsb
+#from pyxlsb import open_workbook as open_xlsb
 
 import streamlit as st
 
