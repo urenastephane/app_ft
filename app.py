@@ -152,7 +152,8 @@ formatting_group = {"is_woman":"by gender",
                     "Admission": "by admission",
                     "Admission AST": "by admission (AST tracks all combined)"}
 
-group = st.selectbox("Grouping to visualize", groups, index=0,format_func=lambda x: formatting_group[x])
+#group = st.selectbox("Grouping to visualize", groups, index=0,format_func=lambda x: formatting_group[x])
+group = st.selectbox("Grouping to visualize", groups, index=0)
 decimals = st.number_input("Decimal positions to visualize?", min_value=0, max_value=None, value=2, step=1)
 weighted = st.checkbox("Visualize weighted partial scores")
 scores = factors.score(df_factors, group, weights, na_method,weighted)
