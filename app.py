@@ -162,8 +162,8 @@ scores = utils.round_all(scores,decimals)
 st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=[f"total_score"]))
 
 #dowload of the complete excel table
-#df_xlsx = to_excel(df_factors)
-#st.download_button(label=f'📥 Download Analysis Year {year}',data=df_xlsx ,file_name= f'analysis{year}.xlsx')
+df_xlsx = to_excel(df_factors)
+st.download_button(label=f'📥 Download Analysis Year {year}',data=df_xlsx ,file_name= f'analysis{year}.xlsx')
 
 
 
