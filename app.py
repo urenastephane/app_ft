@@ -135,6 +135,7 @@ df_factors = factors.factors_df(df_prep,
                                 q_increase = quantile_increase,
                                 outliers = outliers)
 
+chaires = True
 #add info about the chaires if available
 try:
     chaires = pd.read_csv(f"data/chaires{year}.csv")
@@ -143,14 +144,22 @@ try:
     df_factors.drop("Ecole_BID", axis = 1)
     groups = ["is_woman", "is_int", "Admission", "Admission AST", "Chaires"]
 except:
+    chaires = False
     groups = ["is_woman", "is_int", "Admission", "Admission AST"]
 status.text("Done")
 
 #select groups to visualize and formatting options
-formatting_group = {"is_woman":"by gender",
-                    "is_int": "by origin",
-                    "Admission": "by admission",
-                    "Admission AST": "by admission (AST tracks all combined)"}
+if chaires:
+    formatting_group = {"is_woman":"by gender",
+                        "is_int": "by origin",
+                        "Admission": "by admission",
+                        "Admission AST": "by admission (AST tracks all combined)",
+                        "Chaires": "by principal chaire"}
+else:
+    formatting_group = {"is_woman":"by gender",
+                        "is_int": "by origin",
+                        "Admission": "by admission",
+                        "Admission AST": "by admission (AST tracks all combined)"}
 
 #group = st.selectbox("Grouping to visualize", groups, index=0,format_func=lambda x: formatting_group[x])
 group = st.selectbox("Grouping to visualize", groups, index=0)
