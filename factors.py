@@ -182,7 +182,7 @@ def mobility(row, qualtrics = True):
 
 def career_jump(row):
     junior_words = ['consultant','analyst','consultante','analyste','junior','graduate']
-    senior_words = ['manager','senior','associate','chef','responsable','chargée','head','lead','chargé','specialist','ceo']
+    senior_words = ['manager','senior','associate','chef','responsable','head','lead','specialist','ceo']
 
     #create two lists also for job categories in qualtrics survey
     junior_categories = ["Junior Manager",'Student','Professional','Analyst','Self-employed']
