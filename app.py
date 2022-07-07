@@ -186,7 +186,8 @@ parameters = pd.DataFrame([["Qualtrics","method_range",
                             quantile_increase,
                             outliers]])
 
-
+parameters = parameters.T
+parameters.columns = ["Parameters", "Choice"]
 #dowload of the complete excel table
 df_xlsx = to_excel(df_factors, parameters.T)
 st.download_button(label=f'📥 Download Analysis Year {year}',data=df_xlsx ,file_name= f'analysis{year}.xlsx')

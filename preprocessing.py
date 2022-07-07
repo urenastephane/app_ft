@@ -124,12 +124,12 @@ def career_prep(column):
 
 
 #_________________________________________________________________________________________
-#PREPROCESS JOB POSTS
+#PREPROCESS JOB POSITIONS
 
 def preprocess_job_post(text):
     """
     Convert to lowercase.
-    Rremove URL links, special characters and punctuation.
+    Remove URL links, special characters and punctuation.
     Tokenize and remove stop words.
     """
     if text==text:
