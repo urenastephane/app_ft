@@ -171,6 +171,9 @@ def mobility(row, qualtrics = True):
     else:
         work_place = row["job_location_y2"] if row["job_location_y2"]==row["job_location_y2"] else row["job_location_y1"]
 
+    if work_place=="France (including overseas collectivities)":
+        work_place == "France"
+        
     if nationality == nationality and work_place==work_place:
         if work_place.lower()!="france" and work_place.lower()!=nationality.lower() and work_place.lower()!=nationality2.lower():
             return 1

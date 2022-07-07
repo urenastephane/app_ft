@@ -32,9 +32,10 @@ def load_data(year):
     return df
 
 
-def to_excel(df_factors):
+def to_excel(df_factors, parameters_df):
     output = BytesIO()
     with pd.ExcelWriter(output) as writer:
+        parameters_df.to_excel(writer, sheet_name = "parameters_used", index = False)
         df_factors.to_excel(writer, sheet_name = "factors", index = False)
         for group in groups:
             temp = factors.score(df_factors, group, weights, na_method, weighted=False)
@@ -169,8 +170,25 @@ scores = utils.round_all(scores,decimals)
 #visualize the table for one specific group, highlighting the first column
 st.table(scores.astype(str).style.set_properties(**{'background-color': 'yellow'}, subset=[f"total_score"]))
 
+#parameters
+parameters = pd.DataFrame([["Qualtrics","method_range",
+                                    "use_recommendations","value_recommendations",
+                                    "Nb of years back","Method missing values",
+                                    "Quantile salary","Quantile salary increase",
+                                    "Method outliers"],
+                            [qualtrics_data,
+                            method_range,
+                            use_recommendations,
+                            value_binary,
+                            years,
+                            na_method,
+                            quantile,
+                            quantile_increase,
+                            outliers]])
+
+
 #dowload of the complete excel table
-df_xlsx = to_excel(df_factors)
+df_xlsx = to_excel(df_factors, parameters.T)
 st.download_button(label=f'📥 Download Analysis Year {year}',data=df_xlsx ,file_name= f'analysis{year}.xlsx')
 
 
