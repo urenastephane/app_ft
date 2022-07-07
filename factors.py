@@ -10,7 +10,7 @@ def weight_years(y1,y2,y3):
     '''
     #if you have all years available
     if ((y1==y1) and (y2==y2) and (y3==y3)):
-        score = 0.5*y3+0.25*y2+0.25*y3
+        score = 0.5*y3+0.25*y2+0.25*y1
     
     elif ((y2==y2) and (y3 ==y3)):
         score = 0.6*y3+0.4*y2
@@ -56,7 +56,7 @@ def gender(row):
 
 def international(row):
     '''
-    Xheck all columns regarding nationality
+    Check all columns regarding nationality
     return 1 if international, 0 if French
     '''
     int = 1
@@ -173,7 +173,7 @@ def mobility(row, qualtrics = True):
 
     if work_place=="France (including overseas collectivities)":
         work_place == "France"
-        
+
     if nationality == nationality and work_place==work_place:
         if work_place.lower()!="france" and work_place.lower()!=nationality.lower() and work_place.lower()!=nationality2.lower():
             return 1
