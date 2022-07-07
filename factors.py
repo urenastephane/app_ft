@@ -59,21 +59,21 @@ def international(row):
     Check all columns regarding nationality
     return 1 if international, 0 if French
     '''
-    int = 1
+    inter = 1
     if row["french"]=="Yes":
-        int = 0
+        inter = 0
     if row["nationality"]=="France":
-        int = 0
+        inter = 0
     if row["nationality1"] =="Française" or row["nationality1"] == "France":
-        int = 0
+        inter = 0
     if row["nationality2"] =="Française" or row["nationality2"] =="France":
-        int = 0 
+        inter = 0 
 
     #if all are missing return missing value
     if (row["french"]!=row["french"]) & (row["nationality"]!=row["nationality"]) & (row["nationality1"]!=row["nationality1"]):
-        int = np.nan
+        inter = np.nan
         
-    return int
+    return inter
 
 
 def salary(row, years_before = 0):
