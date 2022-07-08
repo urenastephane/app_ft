@@ -20,15 +20,10 @@ def load_data(year):
     admissions = pd.read_csv("data/admission.csv")
     admissions.dropna(inplace = True)
     admissions.drop("STVATTS_DESC", axis = 1, inplace = True)
-    #modify something in admission valid just for year 2020
-    if year == 2020:
-        df = deepcopy(df_all)
-        df["Admission"] = df["admission1"]
-        df["Admission AST"] = df["admission1"].replace(["ASTF", "ASTI"], "AST")
-    else:
-        #join the admissions codes with the general df
-        df = df_all.merge(admissions, how = "left", left_on = "admission1", right_on = "STVATTS_CODE")
-        df.drop("STVATTS_CODE", axis = 1, inplace = True)
+
+    #join the admissions codes with the general df
+    df = df_all.merge(admissions, how = "left", left_on = "admission1", right_on = "STVATTS_CODE")
+    df.drop("STVATTS_CODE", axis = 1, inplace = True)
     return df
 
 
@@ -182,14 +177,14 @@ parameters = pd.DataFrame([["Qualtrics","method_range",
                             value_binary,
                             years,
                             na_method,
-                            quantile,
-                            quantile_increase,
+                            (1-quantile)*2,
+                            (1-quantile_increase)*2,
                             outliers]])
 
 parameters = parameters.T
 parameters.columns = ["Parameters", "Choice"]
 #dowload of the complete excel table
-df_xlsx = to_excel(df_factors, parameters.T)
+df_xlsx = to_excel(df_factors, parameters)
 st.download_button(label=f'📥 Download Analysis Year {year}',data=df_xlsx ,file_name= f'analysis{year}.xlsx')
 
 
