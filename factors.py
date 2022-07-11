@@ -371,7 +371,7 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
                 print(f"Value not replaced for group {i} because not enough values")
 
         if weighted:      
-            result.loc[result[col] == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))*weights["is_woman"]
+            result.loc[result[col] == i,"is_woman"] = (1-2*abs(0.5 - temp["is_woman"].mean()))*weights["is_woman"]
             result.loc[result[col] == i, "is_int"] =  temp["is_int"].mean()*weights["is_int"] 
             result.loc[result[col] == i, "career_jump"] = temp["career_jump"].mean()*weights["career_jump"]
             result.loc[result[col] == i, "satisfaction"] = temp["satisfaction"].mean()*weights["satisfaction"]
@@ -383,7 +383,7 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
             result.loc[result[col] == i, "count"] = len(temp)
             result.loc[result[col] == i, "missing_salary_count"] = len(temp[temp.salary.isna()])
         else:
-            result.loc[result[col] == i,"is_woman"] = (1-abs(0.5 - temp["is_woman"].mean()))
+            result.loc[result[col] == i,"is_woman"] = (1-2*abs(0.5 - temp["is_woman"].mean()))
             result.loc[result[col] == i, "is_int"] =  temp["is_int"].mean()
             result.loc[result[col] == i, "career_jump"] = temp["career_jump"].mean()
             result.loc[result[col] == i, "satisfaction"] = temp["satisfaction"].mean()
