@@ -267,20 +267,24 @@ def factors_df(df, grouping_criteria=[], years_before = 0, qualtrics = True, rec
         new_df[i] = df[i]
 
     #compute quantiles salary
-    q_low = new_df["salary"].quantile(1-q)
-    q_hi  = new_df["salary"].quantile(q)
+    q_low = new_df["salary"].quantile(q)
+    q_hi  = new_df["salary"].quantile(1-q)
 
     #compute quantiles salary increase
-    q_high = new_df["salary_increase_abs"].quantile(q_increase)
-
+    q_loww = new_df["salary_increase_abs"].quantile(q_increase)
+    q_high = new_df["salary_increase_abs"].quantile(1-q_increase)
+    
     if outliers=="eliminate":
         #eliminate salary outliers
-        new_df = new_df[(new_df["salary"] < q_hi) & (new_df["salary"] > q_low)]
+        #keep just values that are higher than the left quantile and lower than the right quantile
+        new_df = new_df[(new_df["salary"] > q_low)&(new_df["salary"] < q_hi) ]
         #eliminate salary increase outliers
-        new_df=new_df[new_df["salary_increase_abs"]<q_high]
+        #keep just values that are higher than the left quantile and lower than the right quantile
+        new_df=new_df[(new_df["salary_increase_abs"]>q_loww)&(new_df["salary_increase_abs"]<q_high)]
     else:
-        new_df.loc[(new_df["salary"] < q_hi) & (new_df["salary"] > q_low), "salary"] = np.nan
-        new_df.loc[new_df["salary_increase_abs"]<q_high, "salary_increase_abs"] = np.nan
+        #substitue with null values that are lower than left quantile or higher than right quantile
+        new_df.loc[(new_df["salary"] > q_hi) | (new_df["salary"] < q_low), "salary"] = np.nan
+        new_df.loc[(new_df["salary_increase_abs"]>q_high)|(new_df["salary_increase_abs"]<q_loww), "salary_increase_abs"] = np.nan
 
     scaler = MinMaxScaler()
     #numericals=['salary_increase_abs','salary_increase_perc','salary','satisfaction','career_service']
@@ -337,6 +341,18 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
 
     result[col] = groups
 
+    #new way to substitute by group
+    if na_method =="General":
+        df_new["is_woman"] = df_new['is_woman'].fillna(df_new.groupby(group)['is_woman'].transform('mode'))
+        df_new["is_int"] = df_new['is_int'].fillna(df_new.groupby(group)['is_int'].transform('mode'))
+        df_new["career_jump"] = df_new['career_jump'].fillna(df_new.groupby(group)['career_jump'].transform('mode'))
+        df_new["satisfaction"] = df_new['satisfaction'].fillna(df_new.groupby(group)['satisfaction'].transform('mean'))
+        df_new["career_service"] = df_new['career_service'].fillna(df_new.groupby(group)['career_service'].transform('mean'))
+        df_new["mobility"] = df_new['mobility'].fillna(df_new.groupby(group)['mobility'].transform('mode'))
+        df_new["salary"] = df_new['salary'].fillna(df_new.groupby(group)['salary'].transform('mean'))
+        df_new["salary_increase_perc"] = df_new['salary_increase_perc'].fillna(df_new.groupby(group)['salary_increase_perc'].transform('mean'))
+        df_new["salary_increase_abs"] = df_new['salary_increase_abs'].fillna(df_new.groupby(group)['salary_increase_abs'].transform('mean'))
+
     for i in groups:
         if i == "General":
             temp= df_new
@@ -352,23 +368,25 @@ def score(df, group, weights, na_method = 'ignore', weighted = True):
         else:
         #filter the dataframe for one group
             temp = df_new.loc[df_new[group]==i, :]
-            
-        if na_method == "group":
-            try:    
-                missing_values = {"is_woman": temp["is_woman"].mode()[0],
-                        "is_int": temp["is_int"].mode()[0],
-                        "career_jump": temp["career_jump"].mode()[0],
-                        "satisfaction":temp["satisfaction"].mean(),
-                        "career_service": temp["career_service"].mean(),
-                        "mobility": temp["mobility"].mode()[0],
-                        "salary": temp["salary"].mean(),
-                        "salary_increase_perc": temp["salary_increase_perc"].mean(),
-                        "salary_increase_abs":temp["salary_increase_abs"].mean()}
 
-                temp.fillna(value = missing_values, inplace = True)
 
-            except:
-                print(f"Value not replaced for group {i} because not enough values")
+        # if na_method == "group":
+        #     try:    
+        #         missing_values = {"is_woman": temp["is_woman"].mode()[0],
+        #                 "is_int": temp["is_int"].mode()[0],
+        #                 "career_jump": temp["career_jump"].mode()[0],
+        #                 "satisfaction":temp["satisfaction"].mean(),
+        #                 "career_service": temp["career_service"].mean(),
+        #                 "mobility": temp["mobility"].mode()[0],
+        #                 "salary": temp["salary"].mean(),
+        #                 "salary_increase_perc": temp["salary_increase_perc"].mean(),
+        #                 "salary_increase_abs":temp["salary_increase_abs"].mean()}
+
+        #         temp.fillna(value = missing_values, inplace = True)
+
+        #     except:
+        #         print(f"Value not replaced for group {i} because not enough values")
+
 
         if weighted:      
             result.loc[result[col] == i,"is_woman"] = (1-2*abs(0.5 - temp["is_woman"].mean()))*weights["is_woman"]

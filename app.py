@@ -101,9 +101,9 @@ st.header('Handling of outliers')
 
 #select quantiles for salary and for salary increase
 st.markdown("Specify the percentage of data to exclude(0 means keeping all observations)")
-st.markdown("If 5% is specified is going to eliminate anything lower than 0.025 quantile and higher than the 0.975 percentile")
-quantile =1-st.number_input(label = "Salary", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)/2
-quantile_increase = 1-st.number_input(label = "Salary Increase", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01)/2
+st.markdown("If 95% is specified is going to eliminate anything lower than 0.025 quantile and higher than the 0.975 percentile")
+quantile =(1-st.number_input(label = "Salary", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01))/2
+quantile_increase = (1-st.number_input(label = "Salary Increase", min_value = 0.9, max_value = 1.0, value = 0.95, step = 0.01))/2
 
 #method to deal with outliers
 st.markdown("**What do you want to do with outliers?**")
@@ -177,8 +177,8 @@ parameters = pd.DataFrame([["Qualtrics","method_range",
                             value_binary,
                             years,
                             na_method,
-                            (1-quantile)*2,
-                            (1-quantile_increase)*2,
+                            1-quantile*2,
+                            1-quantile_increase*2,
                             outliers]])
 
 parameters = parameters.T
